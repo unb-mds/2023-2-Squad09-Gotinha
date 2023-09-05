@@ -50,7 +50,7 @@ Dessa forma, estão descritas na Tabela 2 as issues para a Sprint 1, onde cada i
 | Issue 5 | Mapeamento de dificuldades | Yan |
 | Issue 6 | Estudar sobre o Git | Márcio |
 
-<p aling="center"> Tabela 2. Issues Sprint 1 </p>
+<p align="center"> Tabela 2. Issues Sprint 1 </p>
 
 ## 5. Histórico de Versão
 

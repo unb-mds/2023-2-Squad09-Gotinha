@@ -88,8 +88,8 @@ Aqui estão os principais comandos do Git, explicados usando a metáfora de um �
 
 ## Links úteis:
 
-[COMO USAR GIT E GITHUB NA PRÁTICA!](https://www.youtube.com/watch?v=UBAX-13g8OM)
+- [COMO USAR GIT E GITHUB NA PRÁTICA!](https://www.youtube.com/watch?v=UBAX-13g8OM)
 
-[Comandos Git mais utilizados e como configurar](https://blog.geekhunter.com.br/comandos-git-mais-utilizados/)
+- [Comandos Git mais utilizados e como configurar](https://blog.geekhunter.com.br/comandos-git-mais-utilizados/)
 
-[Comandos Git](https://comandosgit.github.io/)
+- [Comandos Git](https://comandosgit.github.io/)

@@ -8,3 +8,5 @@
   - [Ata da Reunião do dia 01/09](./AtaReuniao/ataReuniao1-09.md)
   - [Comandos Git](./Estudos/ComandosGit.md)
   - [GitHub Pages e Docsify](./Estudos/GitHub_Pages.md)
+  - [Mapeamento de Tecnologias](./Estudos/Mapeamento_de_tecnologias.md)
+  - [Pesquisa sobre a OpenKnowledge](./Estudos/pesquisaOpenKnowledge.md)

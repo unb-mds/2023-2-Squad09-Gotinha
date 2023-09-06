@@ -39,5 +39,5 @@ Ainda a ser definido
 |  Product Owner  |  Responsável por estudar o tema doprojeto e propor um escopo        |
 |  Dev  |  Responsável por estudar as tecnologias definidas   |
 
-Tecnologias 
-
+## Tecnologias 
+ 

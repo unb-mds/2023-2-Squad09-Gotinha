@@ -38,7 +38,7 @@
 
 ![Alt text](./Imagens/graficoSQL.jpeg)
 
-- Ninguem do grupo possui conhecimento sobre ElasticSearch.
+- 16,7% do grupo possui conhecimento sobre ElasticSearch.
 - 50% do  grupo tem conhecimento sobre PostgreSQL.
 
 ### Scrapy e API Pública

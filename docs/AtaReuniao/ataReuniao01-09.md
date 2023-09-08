@@ -39,7 +39,7 @@ Com a primeira reunião foi possível definir as funções principais do projeto
 - Dev - Yan e Márcio
 
 As reuniões de planejamento foram alocadas para as segundas às 20:30 e as reuniões de revisão serão nos sábados.
-Dessa forma, estão descritas na Tabela 2 as issues para a Sprint 1, onde cada issue tem o seu identificador Issue n para a rastreabilidade, sendo n o número da Issue, e o(s) integrante(s) responsável(eis) pela realização da Issue.
+Dessa forma, estão descritas na Tabela 2 as issues para a Sprint 0, onde cada issue tem o seu identificador Issue n para a rastreabilidade, sendo n o número da Issue, e o(s) integrante(s) responsável(eis) pela realização da Issue.
 
 | Identificador (Issue n) | Issue | Integrante(s) responsável(eis) |
 | - | - | - |
@@ -50,13 +50,14 @@ Dessa forma, estão descritas na Tabela 2 as issues para a Sprint 1, onde cada i
 | Issue 5 | Mapeamento de dificuldades | Yan |
 | Issue 6 | Estudar sobre o Git | Márcio |
 
-<p align="center"> Tabela 2. Issues Sprint 1 </p>
+<p align="center"> Tabela 2. Issues Sprint 0 </p>
 
 ## 5. Histórico de Versão
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |
 | 1.0 | Criando Ata da Reunião | Maria Eduarda Vieira | - | 01/09 |
+| 1.1 | Revisão da Ata | Maria Eduarda Vieira | João Artur Leles | 08/09 |
 
 
 

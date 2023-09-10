@@ -1,6 +1,6 @@
 # Requisitos Funcionais e Não Funcionais
 
-Na engenharia de software, fazer o levantantamento de requisitos é a parte crucial do todo projeto. Isso ocorre porque, ao definir e documentar claramente os requisitos, estamos estabelecendo as bases sólidas sobre as quais todo o projeto será construído e mantido por uma longa duração de tempo. Para isso, definimos o levantamento de requisitos em dois tópicos abrangentes: os requisitos funcionais e não funcionais.
+Na engenharia de software, fazer o levantamento de requisitos é a parte crucial do todo projeto. Isso ocorre porque, ao definir e documentar claramente os requisitos, estamos estabelecendo as bases sólidas sobre as quais todo o projeto será construído e mantido por uma longa duração de tempo. Para isso, definimos o levantamento de requisitos em dois tópicos abrangentes: os requisitos funcionais e não funcionais.
 
 Em geral, um requisito funcional é uma funcionalidade específica que o sistema deve ter, ou seja, uma ação que o sistema precisa ser capaz de realizar. Já um requisito não funcional refere-se a características ou qualidades do sistema, como desempenho, segurança, facilidade de uso, confiabilidade, e assim por diante.
 

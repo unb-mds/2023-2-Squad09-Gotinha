@@ -49,8 +49,8 @@
 #### Daily Scrum: _Sincronismo das tarefas e o planejamento das próximas 24 horas_.
 - Reuniões diárias pelo _Time de Desenvolvimento_ e o _Scrum Master_.
 - Recomendado que dure no máximo 15 minutos.
-##### questões a serem levantadas nesses momentos:
-- o que foi feito no dia anterior ?
+##### Questões a serem levantadas nesses momentos:
+- O que foi feito no dia anterior ?
 - O que será feito no dia atual?
 - E se há ou houve a dificuldade da conclusão de algo.
 
@@ -66,4 +66,10 @@
 
 
 # _"Fracasse Rápido para que a correção do problema venha o quanto antes"_
+
+
+## Links úteis
+
+- [Scrum](https://www.youtube.com/watch?v=3aCww_1RnL0)
+- [Tutorial Scrum no Trello](https://blog.trello.com/br/tutorial-scrum)
 

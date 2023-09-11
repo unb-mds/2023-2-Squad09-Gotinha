@@ -18,3 +18,5 @@
 
   - **Sprint 1 (06/09 - 13/09)**
     - [Ata da Reunião do dia 05/09](./AtaReuniao/ataReuniao05-09.md)
+    - [Treinamento Scrum](./Estudos/scrum.md)
+    - [Treinamento Requisitos](./Estudos/requisitos.md)

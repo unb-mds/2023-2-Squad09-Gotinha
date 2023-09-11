@@ -25,10 +25,10 @@ Ainda a ser definido
 | :------------------------: | :---------------: |
 |        João Leles        |  Scrum Master  |
 | Luiz Gustavo  |   Arquitetura   |
+| Márcio Guilherme | Dev |
 |     Maria Eduarda Vieira      | Product Owner |
 |       Paulo Henrique     |  Arquitetura |
 |     Yan Lucas     |  Dev  |
-| Márcio Guilherme | Dev |
 
 ## Descrição dos Papéis
 

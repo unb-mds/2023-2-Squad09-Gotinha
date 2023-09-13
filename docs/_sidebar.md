@@ -20,5 +20,6 @@
     - [Ata da Reunião do dia 05/09](./AtaReuniao/ataReuniao05-09.md)
     - [Treinamento Scrum](./Estudos/scrum.md)
     - [Treinamento Requisitos](./Estudos/requisitos.md)
-    - [Estudo Parser](./Estudos/parser.md)
+    - [Estudo sobre Parser](./Estudos/parser.md)
     - [Exemplo de Parser](./Estudos/parse.ipynb)
+    - [Estudo sobre Kanban](./Estudos/Kanban.md)

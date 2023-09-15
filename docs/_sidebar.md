@@ -23,3 +23,9 @@
     - [Estudo sobre Parser](./Estudos/parser.md)
     - [Exemplo de Parser](./Estudos/parse.ipynb)
     - [Estudo sobre Kanban](./Estudos/Kanban.md)
+    - [Estudo sobre Documento de Visão](./Estudos/Documento_de_Visão.md)
+    - [Estudo sobre Documento de Arquitetura](./Estudos/Documento_de_Arquitetura.md)
+    - [Estudo sobre TAP](./Estudos/TAP.md)
+
+  - **Sprint 2 (13/09 - 20/09)**
+    - [Ata da Reunião do dia 12/09]()

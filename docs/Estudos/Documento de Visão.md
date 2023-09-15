@@ -62,14 +62,14 @@ O proprietário do produto ou analista de negócios trabalha com as partes inter
 
 * Completando estas tarefas, criou-se um documento de visão para registrar metas de negócio, necessidades das partes interessadas, fornecer uma instrução do problema, uma instrução da solução e os requisitos do cliente. Sua equipe concluiu o documento de visão, que poderá ser modificado/atualizado de acordo com o andamento do projeto.
 
-</br>**Dica:** Ao finalizar a documentação, mas antes de começar o projeto de fato, crie uma infraestrutura para trabalhar. Instale e configure ferramentas. Se necessário, modifique os processos e faça relatórios para atender às necessidades da organização. Inclua membros da equipe, designe funções e garanta acesso às áreas do projeto.
+</br>**Dica:** ao finalizar a documentação, mas antes de começar o projeto de fato, crie uma infraestrutura para trabalhar. Instale e configure ferramentas. Se necessário, modifique os processos e faça relatórios para atender às necessidades da organização. Inclua membros da equipe, designe funções e garanta acesso às áreas do projeto.
 
 ## Links Úteis
 
 * [IBM - Developing a vision](https://www.ibm.com/docs/en/engineering-lifecycle-management-suite/lifecycle-management/7.0.3?topic=SSYMRC_7.0.3/com.ibm.team.concert.doc/topics/s_calm_developvision.htm) </br>
 
-* [Vídeo: Qual a melhor forma de documentar software? Descubra](https://www.youtube.com/watch?v=S3NLU898_Cc&ab_channel=pessonizando) </br>
+* [Vídeo - Qual a melhor forma de documentar software? Descubra](https://www.youtube.com/watch?v=S3NLU898_Cc&ab_channel=pessonizando) </br>
 
-* [Documentação: Dubium](https://mdsreq-fga-unb.github.io/2023.1-Dubium2.0/visaoProduto/) </br>
+* [Exemplo 1 - Dubium](https://mdsreq-fga-unb.github.io/2023.1-Dubium2.0/visaoProduto/) </br>
 
-* [Exemplo: Documento de Visão de Sistema](http://repositorio.aee.edu.br/bitstream/aee/1106/4/TCC2_2018_2_GabrielLeiteDias_MatheusLimadeAlbuquerque_Apendice1.pdf) </br>
+* [Exemplo 2 - Documento de Visão de Sistema](http://repositorio.aee.edu.br/bitstream/aee/1106/4/TCC2_2018_2_GabrielLeiteDias_MatheusLimadeAlbuquerque_Apendice1.pdf) </br>

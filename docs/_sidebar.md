@@ -28,4 +28,4 @@
     - [Estudo sobre TAP](./Estudos/TAP.md)
 
   - **Sprint 2 (13/09 - 20/09)**
-    - [Ata da Reunião do dia 12/09]()
+    - [Ata da Reunião do dia 12/09](./AtaReuniao/ataReuniao12-09.md)

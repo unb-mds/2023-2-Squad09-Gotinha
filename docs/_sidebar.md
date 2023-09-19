@@ -29,3 +29,4 @@
 
   - **Sprint 2 (13/09 - 20/09)**
     - [Ata da Reunião do dia 12/09](./AtaReuniao/ataReuniao12-09.md)
+    - [Estudo sobre o Docker](./Estudos/Docker.md)

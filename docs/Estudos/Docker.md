@@ -22,24 +22,24 @@ Docker Registry: O Docker Hub fornece uma biblioteca de imagens pré-construída
 - **Eficiência:** O Docker é eficiente em termos de recursos, permitindo que você execute mais aplicativos em um único servidor.
 - **Escalabilidade:** Os contêineres podem ser facilmente dimensionados horizontalmente para lidar com cargas de trabalho variáveis.
 
-# Conceitos Fundamentais
+## Conceitos Fundamentais
 
-## Imagem Docker
+### Imagem Docker
 Uma imagem Docker é um pacote de leitura apenas que contém um sistema de arquivos com código e dependências do aplicativo. Ela é uma representação estática de um ambiente de aplicativo.
 
-## Contêiner Docker
+### Contêiner Docker
 Um contêiner Docker é uma instância em execução de uma imagem Docker. Ele é isolado do sistema host e pode ser executado e implantado de forma independente. Os contêineres são a unidade de execução do Docker.
 
-## Dockerfile
+### Dockerfile
 Um Dockerfile é um arquivo de configuração que define como construir uma imagem Docker. Ele especifica as instruções para copiar arquivos, instalar dependências e configurar o ambiente do aplicativo. É a receita para criar uma imagem.
 
-## Docker Compose
+### Docker Compose
 O Docker Compose é uma ferramenta que permite definir e executar aplicativos multi-contêiner em um único arquivo de configuração. Ele facilita a orquestração de contêineres relacionados.
 
-# Instalação do Docker
+## Instalação do Docker
 Para começar a usar o Docker, é necessário instalá-lo na sua máquina. As instruções específicas para a sua plataforma podem ser encontradas no [site oficial do Docker](https://docs.docker.com/).
 
-# Comandos Básicos do Docker
+## Comandos Básicos do Docker
 Aqui estão alguns comandos essenciais do Docker para começar:
 
 - `docker pull <imagem>`: Baixa uma imagem Docker do Docker Hub ou de um registro personalizado.
@@ -49,9 +49,9 @@ Aqui estão alguns comandos essenciais do Docker para começar:
 - `docker build -t <nome_da_imagem> <caminho_do_Dockerfile>`: Cria uma imagem Docker a partir de um Dockerfile.
 - `docker-compose up`: Inicia aplicativos multi-contêiner definidos no Docker Compose.
 
-# Exemplos de Uso
+## Exemplos de Uso
 
-## Executando um Contêiner de Exemplo
+### Executando um Contêiner de Exemplo
 ```shell
 docker run -d --name meu-contêiner nginx
 
@@ -64,10 +64,11 @@ docker run: Este é o comando principal para executar um contêiner a partir de 
 --name meu-contêiner: Aqui, você está atribuindo um nome ao seu contêiner, que neste caso é "meu-contêiner". Isso é útil para que você possa se referir facilmente ao contêiner posteriormente por esse nome.
 
 nginx: Isso especifica a imagem que será usada para criar o contêiner. Neste caso, estamos usando a imagem oficial do Nginx, um servidor web popular.
+```
 
 Em resumo, o comando acima inicia um contêiner chamado "meu-contêiner" baseado na imagem do Nginx e o executa em segundo plano como um servidor web. Você pode acessar o servidor Nginx no contêiner através do navegador ou fazer outras operações relacionadas a esse contêiner, como pará-lo ou verificar seu status.
 
-# Conclusão
+## Conclusão
 O Docker oferece a flexibilidade de criar imagens personalizadas para seus aplicativos, permitindo que você configure o ambiente de acordo com suas necessidades específicas. Isso torna o Docker uma ferramenta valiosa para desenvolvedores e operadores que desejam garantir a consistência e a portabilidade de seus aplicativos em diferentes ambientes.
 
 Para aprender mais sobre a criação de imagens Docker personalizadas e explorar recursos avançados, consulte a documentação oficial do Docker (https://docs.docker.com/). 

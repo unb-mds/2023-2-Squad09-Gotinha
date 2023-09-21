@@ -32,3 +32,4 @@
     - [Estudo sobre o Docker](./Estudos/Docker.md)
     - [Estudo sobre Pandas](./Estudos/Pandas.ipynb)
     - [Estudo sobre Snippet](./Estudos/Snippet.md)
+    - [Estudo sobre API](./Estudos/API.md)

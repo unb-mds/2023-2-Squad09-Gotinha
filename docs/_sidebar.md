@@ -33,3 +33,6 @@
     - [Estudo sobre Pandas](./Estudos/Pandas.ipynb)
     - [Estudo sobre Snippet](./Estudos/Snippet.md)
     - [Estudo sobre API](./Estudos/API.md)
+
+  - **Sprint 3 (20/09 - 27/09)**
+    - [Ata da Reunião do dia 20/09](./AtaReuniao/ataReuniao20-09.md)

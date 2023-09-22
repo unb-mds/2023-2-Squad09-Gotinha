@@ -6,7 +6,7 @@ As informações sobre data, horário, duração e local estão detalhadas a seg
 - Data: 20/09/2023
 - Horário início: 21:10.
 - Duração: 1 hora
-- Local: Discord, Online 
+- Local: Discord, online 
 
 ## 2. Participantes
 
@@ -27,7 +27,7 @@ As dúvidas geradas podem ser encontradas na tabela 1, onde cada dúvida tem o s
 | Identificador (Dn) | Dúvida                                                            |
 |--------------------|-------------------------------------------------------------------| 
 | D1                 | Qual biblioteca vamos utilizar para extrair e manipular os dados? |
-| D2                 | Quais os requisitos exigidos pelo(s) clinte(s)?                   |
+| D2                 | Quais os requisitos exigidos pelo(s) cliente(s)?                   |
 | D3                 | O que devemos focar?                                              |
 <p align="center"> Tabela 1. Dúvidas </p>
 

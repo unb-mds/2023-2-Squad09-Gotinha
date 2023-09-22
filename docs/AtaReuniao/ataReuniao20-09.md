@@ -48,6 +48,7 @@ Dessa forma, estão descritas na Tabela 2 as issues para a Sprint 3, onde cada i
 | Issue 4                 | Levantamento de requisitos            | Maria Eduarda, João e Paulo    |
 | Issue 5                | Ata da Reunião do dia 20/09        | Luiz |
 | Issue 6                | Estudar sobre a API do Querido Diário      | Maria Eduarda    |
+| Issue 7                | Assistir aos vídeos sobre Python do Querido Diário    | Todos    |
 <p align="center"> Tabela 2. Issues Sprint 3 </p>
 
 ## 5. Histórico de Versão
@@ -55,4 +56,4 @@ Dessa forma, estão descritas na Tabela 2 as issues para a Sprint 3, onde cada i
 | Versão | Alteração              | Responsável          | Revisor | Data  |
 |--------|------------------------|----------------------|---------|-------|
 | 1.0    | Criando Ata da Reunião | Luiz Gustavo Almeida | João Artur Leles   | 20/09 |
-| 1.1    | Adicionando Issues | João Artur Leles | -     | 22/09 |
+| 1.1    | Adicionando Issues 5, 6, 7 | João Artur Leles | -     | 22/09 |

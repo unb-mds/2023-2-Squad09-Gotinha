@@ -42,13 +42,14 @@ Dessa forma, estão descritas na Tabela 2 as issues para a Sprint 3, onde cada i
 
 | Identificador (Issue n) | Issue                                 | Integrante(s) responsável(eis) |
 |-------------------------|---------------------------------------|--------------------------------|
-| Issue 1                 | Criar um bot utilizando Selenium      | Luiz e Paulo                   |
+| Issue 1                 | Criar um bot utilizando Selenium      | Paulo          |
 | Issue 2                 | Estudar sobre Regex                   | Márcio                   | 
 | Issue 3                 | Estudar a implementação do Exonerator | Yan e João                     |
 | Issue 4                 | Levantamento de requisitos            | Maria Eduarda, João e Paulo    |
-| Issue 5                | Ata da Reunião do dia 20/09        | Luiz |
+| Issue 5                | Criar Ata da Reunião do dia 20/09        | Luiz |
 | Issue 6                | Estudar sobre a API do Querido Diário      | Maria Eduarda    |
 | Issue 7                | Assistir aos vídeos sobre Python do Querido Diário    | Todos    |
+| Issue 8                 | Criar um Raspador usando o Scrapy | Luiz  |
 <p align="center"> Tabela 2. Issues Sprint 3 </p>
 
 ## 5. Histórico de Versão

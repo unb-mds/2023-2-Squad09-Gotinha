@@ -57,4 +57,4 @@ Dessa forma, estão descritas na Tabela 2 as issues para a Sprint 3, onde cada i
 | Versão | Alteração              | Responsável          | Revisor | Data  |
 |--------|------------------------|----------------------|---------|-------|
 | 1.0    | Criando Ata da Reunião | Luiz Gustavo Almeida | João Artur Leles   | 20/09 |
-| 1.1    | Adicionando Issues 5, 6, 7 | João Artur Leles | -     | 22/09 |
+| 1.1    | Adicionando Issues 5, 6, 7 e 8| João Artur Leles | -     | 22/09 |

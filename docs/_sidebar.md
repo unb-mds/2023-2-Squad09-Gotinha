@@ -40,3 +40,4 @@
   - **Sprint 3 (20/09 - 27/09)**
     - [Ata da Reunião do dia 20/09](./AtaReuniao/ataReuniao20-09.md)
     - [Levantamento dos Requisitos](./Estrutura%20do%20Projeto/Requisitos.md)
+    - [Estudo sobre Exoonero](./Estudos/Exoonero.md)

@@ -3,7 +3,7 @@
 - Site: https://exoonero.org/sobre/
 - Github: https://github.com/exoonero/extrator
 
-## objetivo do Exoonero
+## Objetivo do Exoonero
 
 - O projeto tem como principal objetivo coletar, transformar em texto e separar em municípios os diários oficiais municipais da Associação dos Municípios Alagoanos (AMA). Além da separação do conteúdo por município, o texto do diário de cada ente estadual é separado em atos normativos. Também iremos utilizar algoritmos computacionais para classificar e extrair informações dos atos normativos dos diários de cada município. Mais especificamente, o nosso foco será em nomeações e exonerações.
 
@@ -15,7 +15,9 @@
 
 ## Documentos
 
-- Para tornar mais fácil o acompanhamento, o projeto foi dividido em duas fases. A primeira fase tem como principal objetivo propor e avaliar um algoritmo que permita a separação do conteúdo do diário oficial da Associação dos Municípios Alagoanos (AMA) por município. A segunda fase diz respeito a extração e monitoramento de informações relevantes, por exemplo, nomeações e exonerações.
+Para tornar mais fácil o acompanhamento, o projeto foi dividido em duas fases:
+- A primeira fase tem como principal objetivo propor e avaliar um algoritmo que permita a separação do conteúdo do diário oficial da Associação dos Municípios Alagoanos (AMA) por município. 
+- A segunda fase diz respeito a extração e monitoramento de informações relevantes, por exemplo, nomeações e exonerações.
 - Doc que detalha mais sobre como foi feito essas partes: https://github.com/exoonero/extrator/blob/main/docs/README.md
 
 -----------------------------------------------------------------------------------------------
@@ -24,3 +26,6 @@
 - Em resumo nesse doc esta como funciona todo o processo desde abrir o container ate fazer a extração de dados necessários
 - Doc: https://github.com/exoonero/extrator/blob/main/README.md#como-montamos-o-gabarito
 
+## Conclusão
+
+O Exoonero é um grande exemplo de uso dos dados do diário oficial, a utilização do Apache Tika para filtrar os dados provenientes de um PDF se mostra como uma grande alternativa para o projeto. Uma vez que essa ferramenta consegue acessar diversos tipos de documentos e filtrar as informações. 

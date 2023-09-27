@@ -41,3 +41,5 @@
     - [Ata da Reunião do dia 20/09](./AtaReuniao/ataReuniao20-09.md)
     - [Levantamento dos Requisitos](./Estrutura%20do%20Projeto/Requisitos.md)
     - [Estudo sobre Exoonero](./Estudos/Exoonero.md)
+    - [Protótipo Scrapy](./Protótipos/Raspagem%20'Quotes%20to%20Scrape'/Scrapy_Quotes.py)
+    - [Protótipo Selenium](./Protótipos/TesteSelenium/botselenium.py)

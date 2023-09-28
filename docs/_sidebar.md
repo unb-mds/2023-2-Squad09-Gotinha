@@ -40,7 +40,7 @@
 
   - **Sprint 3 (20/09 - 27/09)**
     - [Ata da Reunião do dia 20/09](./AtaReuniao/ataReuniao20-09.md)
-    - [Levantamento dos Requisitos](./Estrutura%20do%20Projeto/Requisitos.md)
+    - [Levantamento dos Requisitos](./Estrutura%20do%20Projeto/Backlog.md)
     - [Estudo sobre Exoonero](./Estudos/Exoonero.md)
     - [Protótipo Scrapy](./Estudos/Scrapy2.md)
-    - [Protótipo Selenium](https://github.com/unb-mds/2023-2-Squad09/tree/main/Protótipos/ProtótipoSelenium)
+    - [Protótipo Selenium](https://github.com/unb-mds/2023-2-Squad09/blob/main/Prot%C3%B3tipos/Prot%C3%B3tipoSelenium/botselenium.py)

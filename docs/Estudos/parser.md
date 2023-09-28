@@ -19,6 +19,7 @@ O Querido Diário quer centralizar os dados e metadados de diários oficiais de 
 
 ## 4.Links úteis
 
+- [Exemplo de Parser](./parser.ipynb)
 - [Parser no Python](https://ecoagi.ai/topics/Python/what-is-parse-python)
 - [Tutorial de parser no Python](https://www.youtube.com/watch?v=aGy7U5ItLRk)
 - [Documentação sobre o parser](https://docs.python.org/pt-br/3.8/library/parser.html)

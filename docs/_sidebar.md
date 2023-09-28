@@ -5,8 +5,8 @@
   - **Backlog**
     - [Requisitos](./Estrutura%20do%20Projeto/Backlog.md)
 
-
   - **Releases**
+    -[Release 1](./Releases/Release1.md)
 
 - **Sprints**
 
@@ -20,26 +20,27 @@
 
   - **Sprint 1 (06/09 - 13/09)**
     - [Ata da Reunião do dia 05/09](./AtaReuniao/ataReuniao05-09.md)
-    - [Treinamento Scrum](./Estudos/scrum.md)
-    - [Treinamento Requisitos](./Estudos/requisitos.md)
+    - [Treinamento de Scrum](./Estudos/scrum.md)
+    - [Treinamento de Requisitos](./Estudos/requisitos.md)
     - [Estudo sobre Parser](./Estudos/parser.md)
-    - [Exemplo de Parser](./Estudos/parse.ipynb)
     - [Estudo sobre Kanban](./Estudos/Kanban.md)
     - [Estudo sobre Documento de Visão](./Estudos/Documento_de_Visão.md)
     - [Estudo sobre Documento de Arquitetura](./Estudos/Documento_de_Arquitetura.md)
     - [Estudo sobre TAP](./Estudos/TAP.md)
+    - [Tutorial sobre Clockfy](https://www.youtube.com/watch?v=iX8RSEhJenU)
 
   - **Sprint 2 (13/09 - 20/09)**
     - [Ata da Reunião do dia 12/09](./AtaReuniao/ataReuniao12-09.md)
     - [Estudo sobre o Docker](./Estudos/Docker.md)
-    - [Estudo sobre Pandas](./Estudos/Pandas.ipynb)
+    - [Estudo sobre Pandas](https://github.com/unb-mds/2023-2-Squad09/blob/main/docs/Estudos/Pandas.ipynb)
     - [Estudo sobre Snippet](./Estudos/Snippet.md)
     - [Estudo sobre API](./Estudos/API.md)
     - [Estudo sobre o Scrapy](./Estudos/Scrapy1.md)
+    - [Quadro Kanban](https://github.com/orgs/unb-mds/projects/11)
 
   - **Sprint 3 (20/09 - 27/09)**
     - [Ata da Reunião do dia 20/09](./AtaReuniao/ataReuniao20-09.md)
     - [Levantamento dos Requisitos](./Estrutura%20do%20Projeto/Requisitos.md)
     - [Estudo sobre Exoonero](./Estudos/Exoonero.md)
-    - [Protótipo Scrapy](./Protótipos/Raspagem%20'Quotes%20to%20Scrape'/Scrapy_Quotes.py)
-    - [Protótipo Selenium](./Protótipos/TesteSelenium/botselenium.py)
+    - [Protótipo Scrapy](./Estudos/Scrapy2.md)
+    - [Protótipo Selenium](https://github.com/unb-mds/2023-2-Squad09/tree/main/Protótipos/ProtótipoSelenium)

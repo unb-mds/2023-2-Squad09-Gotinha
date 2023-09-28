@@ -73,6 +73,7 @@ print (scrapy.__version__) #Exibe a versão instalada
 
 ## Links Úteis
 
+* [Exemplo de Scrapy](Scrapy2.md)
 * [Minicurso Web Scrapy com Python | Scrapy](https://www.youtube.com/watch?v=nyn0IIjoc_o&list=PLcgrCjGCdYEJZDPfsI06YuvbGIApsk7ZB&ab_channel=SynapseDataScience) </br>
 * [Site da Empresa - Zyte](https://www.zyte.com/access-web-data/) </br>
 * [Site Oficial - Scrapy](https://scrapy.org/) </br>

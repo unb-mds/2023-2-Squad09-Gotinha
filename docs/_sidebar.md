@@ -6,7 +6,7 @@
     - [Requisitos](./Estrutura%20do%20Projeto/Backlog.md)
 
   - **Releases**
-    -[Release 1](./Releases/Release1.md)
+    - [Release 1](./Releases/Release1.md)
 
 - **Sprints**
 

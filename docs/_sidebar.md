@@ -44,3 +44,4 @@
     - [Estudo sobre Exoonero](./Estudos/Exoonero.md)
     - [Protótipo Scrapy](./Estudos/Scrapy2.md)
     - [Protótipo Selenium](https://github.com/unb-mds/2023-2-Squad09/blob/main/Prot%C3%B3tipos/Prot%C3%B3tipoSelenium/botselenium.py)
+    - [Estudo sobre o Regex](./Estudos/Regex.md)

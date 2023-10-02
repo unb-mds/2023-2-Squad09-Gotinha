@@ -37,7 +37,6 @@ Análise do progresso do projeto até o momento e discussão geral. (Todos)
 
 Ao final, decidimos quais serão as próximas issues da sprint 6. 
 
-
 As dúvidas geradas podem ser encontradas na tabela 1, onde cada dúvida tem o seu identificador Dn para rastreabilidade, sendo D de Dúvida e n o número da dúvida.
 
 | Identificador (Dn) | Dúvida                                                            |
@@ -45,7 +44,6 @@ As dúvidas geradas podem ser encontradas na tabela 1, onde cada dúvida tem o s
 | D1                 | Como será executada a release 01 no dia 18/10/2023                |
 | D2                 | Como iremos criar o banco de dados dos diarios oficiais (Goias)   |
 | D3                 | Identificar se o Selenium é realmente necessario na release 01    |
-
 
 <p align="center"> Tabela 1. Dúvidas </p>
 

@@ -45,3 +45,6 @@
     - [Protótipo Scrapy](./Estudos/Scrapy2.md)
     - [Protótipo Selenium](https://github.com/unb-mds/2023-2-Squad09/blob/main/Prot%C3%B3tipos/Prot%C3%B3tipoSelenium/botselenium.py)
     - [Estudo sobre o Regex](./Estudos/Regex.md)
+  
+  - **Sprint 4 (27/09 - 04/10)**
+    - [Ata da Reunião do dia 27/09](./AtaReuniao/ataReuniao27-09.md)

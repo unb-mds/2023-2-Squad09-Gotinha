@@ -59,8 +59,7 @@ As seguintes issues foram definidas na Tabela 2 para cada um dos integrantes:
 | Issue 3                 | Protótipo de Baixa Fidelidade no Figma                              | Maria Eduarda                  |
 | Issue 4                 | Criar Ata da Reunião do dia 27/09                                   | Márcio                         |
 | Issue 5                 | Transformar PDFs do Diário Oficial em TXT                           | Yan                            |
-| Issue 6                 | Elaborar um Protótipo de Filtro de informações de um Diário Oficial | Todos                          |
-| Issue 7                 | Extrair Diário Oficial usando o Scrapy                              | Luiz                           |
+| Issue 6             | Extrair Diário Oficial usando o Scrapy                              | Luiz                           |
 
 <p align="center"> Tabela 2. Issues Sprint 6 </p>
 

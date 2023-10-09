@@ -1,4 +1,4 @@
-# Ata da reunião do dia 20/09
+# Ata da reunião do dia 07/10
 
 ## 1. Data, Horário, Duração e Local
 

@@ -41,10 +41,9 @@ As dúvidas geradas podem ser encontradas na tabela 1, onde cada dúvida tem o s
 
 | Identificador (Dn) | Dúvida                                                            |
 |--------------------|-------------------------------------------------------------------| 
-| D1                 | Como vai ser o documento de arquitetura                           |
-| D2                 | Roadmap e storymap são a mesma coisa                              |
-| D3                 | Os requisitos estão corretos                                      |
-
+| D1                 | Como vai ser o Documento de Arquitetura?                          |
+| D2                 | Roadmap e Storymap são a mesma coisa?                             |
+| D3                 | Os requisitos estão corretos?                                     |
 <p align="center"> Tabela 1. Dúvidas </p>
 
 ## 4. Decisões
@@ -60,7 +59,6 @@ As seguintes issues foram definidas na Tabela 2 para cada um dos integrantes:
 | Issue 4                 | Criar Ata da Reunião do dia 07/10                                   | Yan                            |
 | Issue 5                 | Criar Story Map                                                     | João                           |
 | Issue 6                 | Extrair Diário Oficial usando o Scrapy                              | Luiz                           |
-
 <p align="center"> Tabela 2. Issues Sprint 6 </p>
 
 ## 5. Histórico de Versão

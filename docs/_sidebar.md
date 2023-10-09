@@ -49,3 +49,6 @@
   - **Sprint 4 (27/09 - 04/10)**
     - [Ata da Reunião do dia 27/09](./AtaReuniao/ataReuniao27-09.md)
     - [Conversor de PDF para TXT](./Estudos/PDFtoTXT.md)
+
+  - **Sprint 5 (04/10 - 11/10)**
+    - [Ata da Reunião do dia 07/10](./AtaReuniao/ataReuniao07-10.md)

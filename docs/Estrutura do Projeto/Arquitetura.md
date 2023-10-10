@@ -28,7 +28,7 @@ Quando projetamos uma aplicação em camadas, o objetivo é permitir que essas c
 
 Este é um esboço inicial que tem como propósito apresentar, por meio deste diagrama, a ideia e o funcionamento do que pretendemos realizar com nossa aplicação.
 
-[https://github.com/unb-mds/2023-2-Squad09/blob/main/docs/Estrutura%20do%20Projeto/Imagens/Diagrama_de_Arquitetura.jpeg]
+![Diagrama](./Imagens/Diagrama_de_Arquitetura.jpeg)
 
 ### 1.4 Tecnologias
 

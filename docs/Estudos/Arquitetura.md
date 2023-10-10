@@ -24,7 +24,7 @@ Este documento tem como objetivo documentar e organizar a arquitetura do nosso p
 Quando projetamos uma aplicação em camadas, o objetivo é permitir que essas camadas se comuniquem de maneira eficiente, com o mínimo de interferência entre elas. Isso significa que cada camada pode operar independentemente, o que facilita a manutenção e o desenvolvimento. Além disso, essa abordagem ajuda a manter as responsabilidades bem organizadas, tornando o código mais claro e fácil de gerenciar.
 
 
-### 1.3 Camada de Apresentção
+### 1.3 Camada de Apresentação
 
 Este é um esboço inicial que tem como propósito apresentar, por meio deste diagrama, a ideia e o funcionamento do que pretendemos realizar com nossa aplicação.
 

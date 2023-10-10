@@ -54,7 +54,7 @@ As seguintes issues foram definidas na Tabela 2 para cada um dos integrantes:
 | Identificador (Issue n) | Issue                                                               | Integrante(s) responsável(eis) |
 |-------------------------|---------------------------------------------------------------------|--------------------------------|
 | Issue 1                 | Criar Documento de Arquitetura                                      | Márcio                         |
-| Issue 2                 | Unir Protótipos em um único arquivo                                 | Paulo, João, Yan e Luiz        | 
+| Issue 2                 | Integrar Protótipos em um único arquivo                                 | Paulo, João, Yan e Luiz        | 
 | Issue 3                 | Implementar Protótipo de Tela                                       | Maria Eduarda                  |
 | Issue 4                 | Criar Ata da Reunião do dia 07/10                                   | Yan                            |
 | Issue 5                 | Criar Story Map                                                     | João                           |

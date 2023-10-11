@@ -14,7 +14,7 @@ A partir de agora, iremos referir-nos aos "cidadãos", aos "estudantes", aos "pe
 |    Usabilidade     |   RNF3    | O conteúdo de interface da aplicação deve ser totalmente responsivo para web. |
 |    Usabilidade     |   RNF4    | O sistema deve ser acessível, conforme as diretrizes de acessibilidade para conteúdo web (WCAG) do W3C. |
 |    Performance     |   RNF5   | O sistema deve ser rápido e eficiente, proporcionando uma experiência satisfatória ao usuário a partir de constantes otimizações no código. |
-| Requisitos de Interface |   RNF6    |    cores?  verde, branco, preto   |
+| Requisitos de Interface |   RNF6    | Padrão de cores deverá ser: verde, branco e preto |
 <p align="center">Tabela 1. Requisitos Não Funcionais</p>
 
 ### 1.3 Requisitos Funcionais (RF)

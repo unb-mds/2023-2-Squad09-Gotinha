@@ -2,7 +2,7 @@
 
 # Descrição do Projeto
 
-Este projeto é parte da disciplina de Metódos de Desenvolvimento de Software(MDS). Seu objetivo é analisar os díarios oficiais dos munícipios do Estado do Goías e disponibiliza-los em uma página web.
+Este projeto é parte da disciplina de Metódos de Desenvolvimento de Software (MDS). Seu objetivo é analisar os díarios oficiais dos munícipios do Estado do Goías e disponibiliza-los em uma página web.
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_Goi%C3%A1s.svg/243px-Flag_of_Goi%C3%A1s.svg.png" alt="Bandeira do Goías" width="300" style="display: block; margin: 0 auto;">

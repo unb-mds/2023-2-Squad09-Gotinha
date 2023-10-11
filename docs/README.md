@@ -2,11 +2,15 @@
 
 ## Descrição do Projeto
 
-Projeto da disciplina de Metódos de Desenvolvimento de Software, o escopo ainda será definido
+A coleta e análise de informações em diários oficiais municipais desempenham um papel crucial na transparência e responsabilidade governamental. Esses documentos contêm informações vitais sobre diversas atividades administrativas.
+
+Dito isto é importante ter uma ferramenta capaz de analisar esses dados e transmiti-los de maneira clara e objetiva.
+
+O objetivo principal do projeto é coletar diários oficiais municipais de diferentes municípios do Estado do Goías e analisar suas informações.
 
 ## Resultados Esperados
 
-Ainda a ser definido
+O principal objetivo do projeto é criar uma aplicação web capaz de coletar, armazenar e analisar os diários oficias de todos os munícipios do Estado do Goías.
 
 ## Equipe de desenvolvimento
 
@@ -38,6 +42,3 @@ Ainda a ser definido
 |  Arquitetura  |   Responsável por estudar propor arquitetura e tecnologias          |
 |  Product Owner  |  Responsável por estudar o tema doprojeto e propor um escopo        |
 |  Dev  |  Responsável por estudar as tecnologias definidas   |
-
-## Tecnologias 
- 

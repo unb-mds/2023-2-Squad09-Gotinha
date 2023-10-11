@@ -2,8 +2,12 @@
 
 - **Planejamento**
 
-  - **Backlog**
-    - [Requisitos](./Estrutura%20do%20Projeto/Backlog.md)
+  - **Requisitos**
+    - [Backlog](./Estrutura%20do%20Projeto/Backlog.md)
+
+  - **Estrutura do Projeto**
+    - [Documento de Arquitetura](./)
+    - [Story Map](./)
 
   - **Releases**
     - [Release 1](./Releases/Release1.md)

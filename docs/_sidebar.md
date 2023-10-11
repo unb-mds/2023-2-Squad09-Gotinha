@@ -6,8 +6,8 @@
     - [Backlog](./Estrutura%20do%20Projeto/Backlog.md)
 
   - **Estrutura do Projeto**
-    - [Documento de Arquitetura](./)
-    - [Story Map](./)
+    - [Documento de Arquitetura](./Estrutura%20do%20Projeto/Arquitetura.md)
+    - [Story Map](./Estrutura%20do%20Projeto/StoryMap.md)
 
   - **Releases**
     - [Release 1](./Releases/Release1.md)

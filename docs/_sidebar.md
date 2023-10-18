@@ -8,6 +8,7 @@
   - **Estrutura do Projeto**
     - [Documento de Arquitetura](./Estrutura%20do%20Projeto/Arquitetura.md)
     - [Story Map](./Estrutura%20do%20Projeto/StoryMap.md)
+    - [Personas](./Estrutura%20do%20Projeto/Personas.md)
 
   - **Releases**
     - [Release 1](./Releases/Release1.md)

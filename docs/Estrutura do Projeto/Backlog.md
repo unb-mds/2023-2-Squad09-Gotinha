@@ -3,7 +3,8 @@
 ## 1. Elicitação
 
 ### 1.1 Personas
-A partir de agora, iremos referir-nos aos "cidadãos", aos "estudantes", aos "pesquisadores (academia)", aos "jornalistas" e aos "gestores públicos",  como os principais "usuários" do projeto. Ao utilizar essa terminologia, buscamos destacar a centralidade desses grupos em nossa abordagem, reconhecendo que suas necessidades, desafios e expectativas serão o foco principal durante o desenvolvimento do projeto.
+A partir de agora, iremos referir-nos aos "cidadãos", aos "pesquisadores(acadêmicos)", aos "jornalistas" e aos "gestores públicos",  como os principais "usuários" do projeto. Ao utilizar essa terminologia, buscamos destacar a centralidade desses grupos em nossa abordagem, reconhecendo que suas necessidades, desafios e expectativas serão o foco principal durante o desenvolvimento do projeto.
+Para mais informações sobre as Personas: [Diagrama das Personas](./Personas.md)
 
 ### 1.2 Requisitos Não Funcionais (RNF)
 

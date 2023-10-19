@@ -7,3 +7,26 @@ Um  Story Map é uma ferramenta visual que ajuda a criar uma representação est
 ## Divisão
 
 O Story Map possui um Épico relacionado ao tratamento dos dados, que se divide em duas features(Extração e Filtro), e suas respectivas histórias de usuário.
+
+## História do Usuário
+
+Uma história de usuário é uma descrição curta, informal e em linguagem simples de alguma funcionalidade de um sistema sob o ponto de vista do usuário. Utilizadas nos métodos ágeis de desenvolvimento de software.
+
+#### Estudante:
+- Gostaria de saber o processo de extração dos Diários Oficiais.
+- Quero poder roda o projeto no meu computador.
+- quero ter uma documentação de como fazer a instalação e como ser utilizado.
+
+#### Usuário;
+- Quero extrair um diário expecifico da data selecionada.
+- Quero poder selecionar um Município desejado.
+- Gostaria de uma interface limpa e fácil de ser utilizada.
+
+#### Pesquisador:
+- Quero obter analises dos Dados.
+- Quero Dashbords que compare outros anos.
+- Quero um Dashboard que compare exonerações e nomeações do Goías todo.
+
+#### Jornalista:
+- Quero um ranking dos municípios que mais exonera e nomeia.
+- Quero ver a comparação entre exonerações e nomeações em diferentes municípios.

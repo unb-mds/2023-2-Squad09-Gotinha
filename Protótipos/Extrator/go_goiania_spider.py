@@ -55,6 +55,6 @@ class GoianiaSpider(scrapy.Spider):
 
 """
 Para executar, primeiro navegue pelo terminal até o diretório onde este código está localizado.
-Feito isso, basta executar o seguinte comando: scrapy runspider <go_goiania_spider.py> -o <arquivos_extraídos.extensão>
+Feito isso, basta executar o seguinte comando: scrapy runspider nome_arquivo.py -o arquivo_extraído.extensão
 A extensão de saída pode ser: json, jsonlines, jsonl, jl, csv, xml, marshal ou pickle.
 """

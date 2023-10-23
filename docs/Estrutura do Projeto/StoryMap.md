@@ -25,8 +25,8 @@ Uma história de usuário é uma descrição curta, informal e em linguagem simp
 #### Pesquisador:
 - Quero obter analises dos Dados.
 - Quero Dashbords que compare outros anos.
-- Quero um Dashboard que compare exonerações e nomeações do Goías todo.
+- Quero um Dashboard que compare os orçamentos para a saúde do Goías.
 
 #### Jornalista:
-- Quero um ranking dos municípios que mais exonera e nomeia.
-- Quero ver a comparação entre exonerações e nomeações em diferentes municípios.
+- Quero um ranking dos municípios que o orçamento é maior.
+- Quero ver a comparação dos orçamento em diferentes municípios.

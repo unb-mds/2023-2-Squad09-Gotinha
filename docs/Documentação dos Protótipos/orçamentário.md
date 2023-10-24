@@ -9,7 +9,7 @@
 
 ### __Código:__
 
-```
+```python
 from urllib.request import Request, urlopen
 from PyPDF2 import PdfFileReader
 import io

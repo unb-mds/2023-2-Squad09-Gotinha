@@ -2,7 +2,7 @@
 
 Um  Story Map é uma ferramenta visual que ajuda a criar uma representação estruturada de funcionalidades de um sistema ou produto. Ele é composto por histórias de usuário organizadas em um fluxo lógico, permitindo uma melhor compreensão das necessidades dos usuários e como elas se relacionam.
 
-![Story Map](./Imagens/StoryMap.jpg)
+![Story Map](./Imagens/StoryMap.png)
 
 ## Divisão
 

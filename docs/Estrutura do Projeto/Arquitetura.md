@@ -48,7 +48,7 @@ Além disso, o PyPDF2 fornece funcionalidades para trabalhar com anotações, li
 
 Regex, ou expressões regulares, são padrões de texto que descrevem conjuntos de strings. Elas são usadas para buscar, extrair, substituir e manipular texto com base em padrões específicos. As regex são uma poderosa ferramenta para o processamento de texto e são amplamente usadas em programação, processamento de dados e tarefas de busca e substituição de texto.
 
-**Regex**
+**React**
 
 O React é uma biblioteca JavaScript de código aberto usada para criar interfaces de usuário interativas e reativas em aplicações da web. Ele simplifica o desenvolvimento de componentes reutilizáveis que são eficientes na atualização da interface do usuário quando o estado de um aplicativo muda. React é amplamente utilizado para construir aplicativos da web modernos e é mantido pelo Facebook.
 

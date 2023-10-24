@@ -41,14 +41,14 @@
     - [Estudo sobre Pandas](https://github.com/unb-mds/2023-2-Squad09/blob/main/docs/Estudos/Pandas.ipynb)
     - [Estudo sobre Snippet](./Estudos/Snippet.md)
     - [Estudo sobre API](./Estudos/API.md)
-    - [Estudo sobre o Scrapy](./Estudos/Scrapy1.md)
+    - [Estudo sobre o Scrapy](./Estudos/Scrapy.md)
     - [Quadro Kanban](https://github.com/orgs/unb-mds/projects/11)
 
   - **Sprint 3 (20/09 - 27/09)**
     - [Ata da Reunião do dia 20/09](./AtaReuniao/ataReuniao20-09.md)
     - [Levantamento dos Requisitos](./Estrutura%20do%20Projeto/Backlog.md)
     - [Estudo sobre Exoonero](./Estudos/Exoonero.md)
-    - [Protótipo Scrapy](./Estudos/Scrapy2.md)
+    - [Protótipo Scrapy](./Documentação%20dos%20Protótipos/Raspagem_'Quotes_to_Scrape'.md)
     - [Protótipo Selenium](https://github.com/unb-mds/2023-2-Squad09/blob/main/Prot%C3%B3tipos/Prot%C3%B3tipoSelenium/botselenium.py)
     - [Estudo sobre o Regex](./Estudos/Regex.md)
   
@@ -58,3 +58,7 @@
 
   - **Sprint 5 (04/10 - 11/10)**
     - [Ata da Reunião do dia 07/10](./AtaReuniao/ataReuniao07-10.md)
+    - [Protótipo de Filtro](./Documentação%20dos%20Protótipos/ProtótipoFiltro.md)
+
+  - **Sprint 6 (11/10 - 25/10)**
+    - [Ata da Reunião do dia 11/10](./)

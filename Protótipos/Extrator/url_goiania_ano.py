@@ -8,6 +8,7 @@ class GoianiaSpider(scrapy.Spider):
     name = 'goiania_spider'
     alloy_domain = 'https://goiania.go.gov.br'
     start_url = ['https://www.goiania.go.gov.br/casa-civil/diario-oficial/']
+    # Reduzir o ano inicial de 1960 para 2000:
     start_date = datetime.date(2000, 1, 1)
 
     def start_requests(self):

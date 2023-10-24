@@ -1,4 +1,4 @@
-# Extraindo os Decretos Orçamentários para um arqivo.json
+# Extraindo os Decretos Orçamentários para um arquivo.json
 
 - Conseguimos extrair partes específicas, que no caso é 'decreto orçamentário', de vários diários oficiais usando regex e alocar esses dados em um arquivo.json.
 

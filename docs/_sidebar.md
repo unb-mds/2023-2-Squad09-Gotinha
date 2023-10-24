@@ -11,6 +11,14 @@
     - [Personas](./Estrutura%20do%20Projeto/Personas.md)
     - [Scrum Adaptado](./Estrutura%20do%20Projeto/Processo%20de%20Desenvolvimento.md)
 
+  - **Documentação dos Protótipos**
+    - [Extrator de Decretos Orçamentários para arquivo .json](./Documentação%20dos%20Protótipos/orçamentário.md)
+    - [Conversor PDF-json](./Documentação%20dos%20Protótipos/pdf-json.md)
+    - [Protótipo de Alta Fidelidade](./Documentação%20dos%20Protótipos/ProtótipoAltaFidelidade.md)
+    - [Protótipo de Baixa Fidelidade](./Documentação%20dos%20Protótipos/ProtótipoBaixaFidelidade.md)
+    - [Protótipo de Filtro](./Documentação%20dos%20Protótipos/ProtótipoFiltro.md)
+    - [Raspagem com Scrapy](./Documentação%20dos%20Protótipos/Raspagem_'Quotes_to_Scrape'.md)
+
   - **Releases**
     - [Release 1](./Releases/Release1.md)
 

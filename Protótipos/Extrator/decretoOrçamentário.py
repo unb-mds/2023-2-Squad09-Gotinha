@@ -17,7 +17,7 @@ if response1.status_code == 200:
     # Não é necessário usar json.loads aqui, pois response1.json() já converte o JSON em um objeto Python
     urls_json = json_data1
 
-    # Itera sobre os itens e imprime as URLs
+    # loop para abrir cada url e extrair os dados e alocar em um arquivo
     for item in urls_json:
         # abre uma url por vez
         url = item['url']

@@ -78,4 +78,4 @@ Estudos sobre o React estão sendo realizados por todos os membros da equipe par
 
 | Versão | Alteração              | Responsável      | Revisor            | Data       |
 |--------|------------------------|------------------|--------------------|------------|
-| 1.0    | Release 1              | Marcio Guilherme | João Artur Leles   | 23/10/2023 |
+| 1.0    | Release 1              | Marcio Guilherme | João Artur Leles   | 24/10/2023 |

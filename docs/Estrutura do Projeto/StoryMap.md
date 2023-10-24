@@ -6,9 +6,17 @@ Um  Story Map é uma ferramenta visual que ajuda a criar uma representação est
 
 ## Divisão
 
-O Story Map possui um Épico relacionado ao tratamento dos dados e um a visualização dos mesmos, que se divide em quatro features (Extrair, Gerenciar, Visualizar e Pesquisar), e suas respectivas histórias de usuário.
+O Story Map possui um Épico relacionado ao Tratamento dos Dados e um a Visualização dos mesmos, cada Épico possui duas Features sendo Extrair e Gerenciar para o Tratamento de Dados; e Visualizar e Pesquisar para o Épico de Visualização dos Dados, e cada Feature possui suas respecticas Histórias de Usuário.
 
-## História do Usuário
+### Épicos
+
+Épicos são as maiores unidades de trabalho do projeto. Eles representam as funcionalidades da maneira mais geral possível e são agrupados em Features.
+
+### Features
+
+Features são as funcionalidades que o projeto deve possuir, elas são agrupadas de maneira mais simples e objetiva, sendo compostas por diversas Histórias de Usuário.
+
+### História de Usuário
 
 Uma história de usuário é uma descrição curta, informal e em linguagem simples de alguma funcionalidade de um sistema sob o ponto de vista do usuário. Utilizadas nos métodos ágeis de desenvolvimento de software.
 

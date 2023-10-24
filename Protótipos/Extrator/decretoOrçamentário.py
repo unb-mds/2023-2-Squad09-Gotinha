@@ -70,4 +70,8 @@ if response1.status_code == 200:
                 else:
                     f.write(txt)
                 f.close()
+
+'''
+A documentação de como utilizar está no (docs/Documentação dos Protótipos/orçamentário.md).
+'''
                 

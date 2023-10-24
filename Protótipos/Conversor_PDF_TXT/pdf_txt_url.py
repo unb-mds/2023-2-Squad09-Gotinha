@@ -26,3 +26,7 @@ with open('amem2.json', 'w', encoding="utf-8") as d:
             d.write(''.center(100, '-'))
             d.write(json)
     d.close()
+
+'''
+A documentação de como utilizar está no (docs/Documentação dos Protótipos/pdf-json.md).
+'''

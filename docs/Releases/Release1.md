@@ -27,13 +27,12 @@ Para o desenvolvimento da interface de usuário, optamos pelo React. Essa escolh
 
 ### Produtos Entregues
 
-1. **Conversor de PDF para TXT [Link](https://github.com/unb-mds/2023-2-Squad09/tree/main/Prot%C3%B3tipos/Conversor_PDF_TXT)**
+1. **Conversor de PDF para JSON [Link](https://github.com/unb-mds/2023-2-Squad09/tree/main/Prot%C3%B3tipos/Conversor_PDF_TXT)**
 2. **Protótipo de Baixa Fidelidade [Link](https://github.com/unb-mds/2023-2-Squad09/tree/main/Prot%C3%B3tipos/Prot%C3%B3tipo_Baixa_Fidelidade)**
 3. **Protótipo de Alta Fidelidade [Link](https://github.com/unb-mds/2023-2-Squad09/tree/main/Prot%C3%B3tipos/Prot%C3%B3tipo_Alta_Fidelidade)**
 4. **Protótipo de Filtro [Link](https://github.com/unb-mds/2023-2-Squad09/tree/main/Prot%C3%B3tipos/Prot%C3%B3tipo_Filtro)**
-5. **Raspador (Scrapy) [Link](https://github.com/unb-mds/2023-2-Squad09/tree/main/Prot%C3%B3tipos/Raspagem%20'Quotes%20to%20Scrape')**
-6. **Protótipo Selenium [Link](https://github.com/unb-mds/2023-2-Squad09/tree/main/Prot%C3%B3tipos/Prot%C3%B3tipoSelenium)**
-7. **Extrator [Link](https://github.com/unb-mds/2023-2-Squad09/tree/main/Prot%C3%B3tipos/Extrator)**
+5. **Protótipo Selenium [Link](https://github.com/unb-mds/2023-2-Squad09/tree/main/Prot%C3%B3tipos/Prot%C3%B3tipoSelenium)**
+6. **Extrator [Link](https://github.com/unb-mds/2023-2-Squad09/tree/main/Prot%C3%B3tipos/Extrator)**
 
 ### Tópicos Estudados
 

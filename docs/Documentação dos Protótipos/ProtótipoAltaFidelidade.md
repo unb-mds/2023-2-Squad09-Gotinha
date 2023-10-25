@@ -33,6 +33,7 @@ O desenvolvimento deste protótipo utilizou a seguinte paleta de cores como base
 ![Tela 2](./Imagens/PAF2.png)
 
 - Esta página permite pesquisar sobre informações contidas no diário oficial de um município especifico, utilizando o nome do município e data desejada.
+- Abaixo do campo de pesquisa existe um botão para baixar o diário oficial pesquisado.
 - No lado direito da página é possível ver um comparativo entre os investimentos do município desejado e da média dos demais municipíos do Goías.
 - Abaixo do gráfico é possível visualizar os resultados das buscas para o período de tempo selecionado.
 - Na parte de cima da Dashboard é possível ver a logo do Gotinha seguida de três botões que servem respectivamente para: retornar a [página inicial](#tela-1---página-inicial), [pesquisar município especifíco](#tela-2---página-de-pesquisa) e [ver mais detalhes sobre o projeto](#tela-3---sobre).

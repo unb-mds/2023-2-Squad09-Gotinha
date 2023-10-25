@@ -1,8 +1,6 @@
 # Personas
 
-![Personas](./Imagens/Personas.jpg)
-
-**Nome:** Gabriela Santos (Jornalista)
+## **Nome:** Gabriela Santos (Jornalista)
 
 **Idade:** 32 anos
 
@@ -38,7 +36,7 @@
 
 <p>&nbsp;</p>
 
-**Nome:** Marcos Oliveira (Gestor Público)
+## **Nome:** Marcos Oliveira (Gestor Público)
 
 **Idade:** 45 anos
 
@@ -76,7 +74,7 @@
 
 <p>&nbsp;</p>
 
-**Nome:** Maria Silva (Cidadã)
+## **Nome:** Maria Silva (Cidadã)
 
 **Idade:** 30 anos
 
@@ -110,7 +108,7 @@
 
 <p>&nbsp;</p>
 
-**Nome:** André Costa (Pesquisador Acadêmico)
+## **Nome:** André Costa (Pesquisador Acadêmico)
 
 **Idade:** 38 anos
 
@@ -144,5 +142,5 @@
 - Auxiliar na análise de dados de saúde e na criação de visualizações para suas pesquisas em saúde pública.
 - Facilitar a colaboração com outros pesquisadores e instituições de saúde em Goiás, identificando oportunidades de financiamento e pesquisa conjunta.
 
-
-
+## Imagem
+![Personas](./Imagens/Personas.jpg)

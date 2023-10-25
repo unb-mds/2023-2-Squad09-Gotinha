@@ -38,7 +38,7 @@ Para o desenvolvimento da interface de usuário, optamos pelo React. Essa escolh
 
 Durante o desenvolvimento inicial do projeto, realizamos estudos abrangendo os seguintes tópicos:
 
-- API
+- API do Querido Diário
 - GitHub
 - Docker
 - Arquitetura de Software
@@ -60,10 +60,9 @@ Durante o desenvolvimento inicial do projeto, realizamos estudos abrangendo os s
 
 **Versionamento pypdf2 (Versão especifica)**
 
-**Dificuldades com o linux**
+**Dificuldades com o Linux**
 
 **Dificuldades com o React**
-
 
 ## Solução Proposta
 

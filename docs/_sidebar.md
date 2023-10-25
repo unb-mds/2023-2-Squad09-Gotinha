@@ -46,7 +46,7 @@
   - **Sprint 2 (13/09 - 20/09)**
     - [Ata da Reunião do dia 12/09](./AtaReuniao/ataReuniao12-09.md)
     - [Estudo sobre o Docker](./Estudos/Docker.md)
-    - [Estudo sobre Pandas](https://github.com/unb-mds/2023-2-Squad09/blob/main/docs/Estudos/Pandas.ipynb)
+    - [Estudo sobre Pandas](https://github.com/unb-mds/2023-2-Squad09-Gotinha/blob/main/docs/Estudos/Pandas.ipynb)
     - [Estudo sobre Snippet](./Estudos/Snippet.md)
     - [Estudo sobre API](./Estudos/API.md)
     - [Estudo sobre o Scrapy](./Estudos/Scrapy.md)
@@ -57,16 +57,23 @@
     - [Levantamento dos Requisitos](./Estrutura%20do%20Projeto/Backlog.md)
     - [Estudo sobre Exoonero](./Estudos/Exoonero.md)
     - [Protótipo Scrapy](./Documentação%20dos%20Protótipos/Raspagem_'Quotes_to_Scrape'.md)
-    - [Protótipo Selenium](https://github.com/unb-mds/2023-2-Squad09/blob/main/Prot%C3%B3tipos/Prot%C3%B3tipoSelenium/botselenium.py)
+    - [Protótipo Selenium](https://github.com/unb-mds/2023-2-Squad09-Gotinha/blob/main/Prot%C3%B3tipos/Prot%C3%B3tipoSelenium/botselenium.py)
     - [Estudo sobre o Regex](./Estudos/Regex.md)
   
   - **Sprint 4 (27/09 - 04/10)**
     - [Ata da Reunião do dia 27/09](./AtaReuniao/ataReuniao27-09.md)
-    - [Conversor de PDF para TXT](./Estudos/PDFtoTXT.md)
+    - [Conversor de PDF para Json](./Documentação%20dos%20Protótipos/pdf-json.md)
+    - [Protótipo de Baixa Fidelidade](./Documentação%20dos%20Protótipos/ProtótipoBaixaFidelidade.md)
+    - [Extrator](https://github.com/unb-mds/2023-2-Squad09-Gotinha/tree/main/Prot%C3%B3tipos/Extrator)
 
   - **Sprint 5 (04/10 - 11/10)**
     - [Ata da Reunião do dia 07/10](./AtaReuniao/ataReuniao07-10.md)
     - [Protótipo de Filtro](./Documentação%20dos%20Protótipos/ProtótipoFiltro.md)
+    - [Protótipo de Alta Fidelidade](./Documentação%20dos%20Protótipos/ProtótipoAltaFidelidade.md)
+    - [Extração do Decreto Orçamentário](./Documentação%20dos%20Protótipos/orçamentário.md)
+    - [Story Map](./Estrutura%20do%20Projeto/StoryMap.md)
+    - [Documento de Arquitetura](./Estrutura%20do%20Projeto/Arquitetura.md)
 
   - **Sprint 6 (11/10 - 25/10)**
     - [Ata da Reunião do dia 11/10](./)
+    - [Link para Página Web do Gotinha](https://joao-artl.github.io/Gotinha/)

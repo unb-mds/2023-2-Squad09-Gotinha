@@ -77,6 +77,11 @@
   - **Sprint 6 (11/10 - 25/10)**
     - [Ata da Reunião do dia 11/10](./AtaReuniao/ataReuniao11-10.md)
     - [Link para Página Web do Gotinha](https://joao-artl.github.io/Gotinha/)
+    - [Documento sobre Personas atualizado](./Estrutura%20do%20Projeto/Personas.md)
+    - [Documento de Arquitetura atualizado](./Estrutura%20do%20Projeto/Arquitetura.md)
+    - [Documentação dos Protótipos de Extrator](./Documentação%20dos%20Protótipos/orçamentário.md)
+    - [Documento sobre Scrum adaptado](./Estrutura%20do%20Projeto/Processo%20de%20Desenvolvimento.md)
+    - [Release 1](./Releases/Release1.md)
 
   - **Sprint 7 (25/10 - 01/11)**
     - [Ata da Reunião do dia 01/11](./)

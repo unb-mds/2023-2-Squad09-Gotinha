@@ -50,7 +50,7 @@ Dessa forma, estão descritas na Tabela 2 as issues para a Sprint 6, onde cada i
 | Issue 4 | Criar Protótipo de Tela | João |
 | Issue 5 | Documento sobre o Scrum Adaptado | João e Maria Eduarda |
 | Issue 6 | Criar ata da reunião do dia 11/10| João |
-| Issue 7 | Documento sobre a Release 1 | Márcio | 
+| Issue 7 | Criar Release Notes | Márcio | 
 <p align="center"> Tabela 2. Issues Sprint 6 </p>
 
 ## 5. Histórico de Versão

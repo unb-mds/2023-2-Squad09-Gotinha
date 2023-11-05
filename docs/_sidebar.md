@@ -75,5 +75,8 @@
     - [Documento de Arquitetura](./Estrutura%20do%20Projeto/Arquitetura.md)
 
   - **Sprint 6 (11/10 - 25/10)**
-    - [Ata da Reunião do dia 11/10](./)
+    - [Ata da Reunião do dia 11/10](./AtaReuniao/ataReuniao11-10.md)
     - [Link para Página Web do Gotinha](https://joao-artl.github.io/Gotinha/)
+
+  - **Sprint 7 (25/10 - 01/11)**
+    - [Ata da Reunião do dia 01/11](./)

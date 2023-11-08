@@ -62,9 +62,9 @@
   
   - **Sprint 4 (27/09 - 04/10)**
     - [Ata da Reunião do dia 27/09](./AtaReuniao/ataReuniao27-09.md)
-    - [Conversor de PDF para Json](./Documentação%20dos%20Protótipos/pdf-json.md)
+    - [Conversor de PDF para JSON](./Documentação%20dos%20Protótipos/pdf-json.md)
     - [Protótipo de Baixa Fidelidade](./Documentação%20dos%20Protótipos/ProtótipoBaixaFidelidade.md)
-    - [Extrator](https://github.com/unb-mds/2023-2-Squad09-Gotinha/tree/main/Prot%C3%B3tipos/Extrator)
+    - [Extrator](https://github.com/unb-mds/2023-2-Squad09-Gotinha/tree/main/Prot%C3%B3tipos/Extrator_V1)
 
   - **Sprint 5 (04/10 - 11/10)**
     - [Ata da Reunião do dia 07/10](./AtaReuniao/ataReuniao07-10.md)
@@ -84,4 +84,6 @@
     - [Release 1](./Releases/Release1.md)
 
   - **Sprint 7 (25/10 - 01/11)**
-    - [Ata da Reunião do dia 01/11](./)
+    - [Ata da Reunião do dia 27/10](./AtaReuniao/)
+    - [Unindo Spider com PDF para JSON](./Documentação%20dos%20Protótipos/run.md)
+    - [Extrator V2](https://github.com/unb-mds/2023-2-Squad09-Gotinha/tree/main/Prot%C3%B3tipos/Extrator_V2)

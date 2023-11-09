@@ -4,7 +4,8 @@ import os
 from pdf_json import url_Json
 
 
-# Executa o spider e obtém a lista de dados
+# Executa o spider e obtém os diários em .json
+# Lembre-se de navegar pelo terminal até o diretório onde está localizado o arquivo goiania_spider.py
 comando = "scrapy runspider goiania_spider.py -o edicoes_recentes.json"
 resultado = subprocess.run(comando, shell=True, stdout=subprocess.PIPE)
 

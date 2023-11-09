@@ -33,13 +33,16 @@ class GoianiaSpider(scrapy.Spider):
         editions = response.xpath('*//a[@href]')
         data_list = []  # Lista para armazenar os dados
 
-        for edition in editions[:6]:
+        for edition in editions[:3]:
             e_info = edition.xpath('./text()').get()
+            # Obtém a edição
             num = re.search(r'Edi\u00e7\u00e3o  n\u00ba (\d+)', e_info).group(1)
+            # Obtém a data
             date = re.search(r'de (\d+ [^\d]+ \d+)', e_info).group(1)
+            # Obtém a URL
             url = edition.xpath('./@href').get()
             full_url = urljoin(f"{self.alloy_domain}", url)
-
+            # Verifica se é suplemento ou não
             sup = re.search(r'-\s+(.+)$', e_info)
             if sup:
                 sup = "true"

@@ -27,7 +27,7 @@ def url_Json(arquivo):
         # [:numero_edicoes] ---> Aqui, deve ser inserido o número de edições que serão convertidas para json
         # Ao executar pela primeira vez, o número deve ser o mesmo presente em goiania_spider.py
         # Caso os diários já estejam em json, escreva 0 para não executar a função novamente
-        for item in urls_json[0]:
+        for item in urls_json[:0]:
             # Abre uma url por vez
             url = item['URL']
             ed = item['Edicao']

@@ -84,6 +84,7 @@
     - [Release 1](./Releases/Release1.md)
 
   - **Sprint 7 (25/10 - 01/11)**
-    - [Ata da Reunião do dia 27/10](./AtaReuniao/)
+    - [Ata da Reunião do dia 28/10](./AtaReuniao/ataReuniao28-10.md)
     - [Unindo Spider com PDF para JSON](./Documentação%20dos%20Protótipos/run.md)
     - [Extrator V2](https://github.com/unb-mds/2023-2-Squad09-Gotinha/tree/main/Prot%C3%B3tipos/Extrator_V2)
+    - [Estudo sobre o SpacePy](./Estudos/Spacepy.md)

@@ -32,9 +32,23 @@ Na reunião, os seguintes integrantes paticiparam:
 
 - Por fim, foi criado o repositório do frontend do Gotinha.
 
-## 4. Dúvidas a Serem Resolvidas
+**Dúvidas a Serem Resolvidas**
 
 - Durante a semana, serão procuradas soluções para dúvidas relacionadas ao Codecov e Pylint.
+
+## 4. Decisões
+
+A próxima sprint tem como objetivo em começar a segunda parte da disciplina. 
+As seguintes issues foram definidas na Tabela 1 para cada um dos integrantes:
+
+| Identificador (Issue n) | Issue                                                               | Integrante(s) responsável(eis) |
+|-------------------------|---------------------------------------------------------------------|--------------------------------|
+| Issue 1                 | Melhorar readme do segundo repositório             | Luiz, Paulo e João                 |
+| Issue 2                 | Estudar sobre Spacy                                               | João e Yan          | 
+| Issue 3                 | Corrigir erro do GitHub Pages                      | João e Paulo               |
+| Issue 4                 | Finalizar desenvolvimento das telas          | João, Paulo e Maria Eduarda                         |
+| Issue 5                 | Criar ATA da reunião do dia 08/11                                  | Márcio                   |
+<p align="center"> Tabela 1. Issues Sprint 8</p>
 
 ## 5. Histórico de Versão
 

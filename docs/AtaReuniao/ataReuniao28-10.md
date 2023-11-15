@@ -1,4 +1,4 @@
-# Ata da reunião do dia 27/09
+# Ata da reunião do dia 28/10
 
 ## 1. Data, Horário, Duração e Local
 
@@ -37,12 +37,11 @@ As seguintes issues foram definidas na Tabela 1 para cada um dos integrantes:
 
 | Identificador (Issue n) | Issue                                                               | Integrante(s) responsável(eis) |
 |-------------------------|---------------------------------------------------------------------|--------------------------------|
-| Issue 1                 | Utilizar API do Querido Diário para criar o extrator                | Luiz, Yan                      |
+| Issue 1                 | Finalizar tratamento dos dados dos diários oficiais             | Luiz, Yan                      |
 | Issue 2                 | Estudar sobre React                                                 | Paulo, Maria Eduarda           | 
-| Issue 3                 | Estudar space python e verificar viabilidade                        | Márcio, João                   |
+| Issue 3                 | Estudar Spacepy e verificar viabilidade                        | Márcio, João                   |
 | Issue 4                 | Passar protótipo de front-end para o segundo repositório            | João                           |
 | Issue 5                 | Criar ATA da reunião do dia 28/10                                   | Paulo                          |
-
 <p align="center"> Tabela 1. Issues Sprint 7 </p>
 
 ## 5. Histórico de Versão

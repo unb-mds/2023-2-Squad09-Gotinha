@@ -51,7 +51,7 @@ git clone https://github.com/unb-mds/2023-2-Squad09-Gotinha.git
 Após a instalação das bibliotecas os protótipos podem ser acessados na [página](./Protótipos/).
 Consulte a documentação disponível no [link](./docs/Documentação%20dos%20Protótipos/) para mais informações de como executar cada protótipo.
 
-A página web do Gotinha pode ser acessada a partir do [link](https://joao-artl.github.io/Gotinha/).
+A Dashboard do Gotinha pode ser acessada a partir do [link](https://unb-mds.github.io/2023.2_Gotinha/).
 
 ## Funcionalidades
 O projeto possui as seguintes funcionalidades:

@@ -76,7 +76,7 @@
 
   - **Sprint 6 (11/10 - 25/10)**
     - [Ata da Reunião do dia 11/10](./AtaReuniao/ataReuniao11-10.md)
-    - [Link para Página Web do Gotinha](https://joao-artl.github.io/Gotinha/)
+    - [Link para Página Web do Gotinha](https://unb-mds.github.io/2023.2_Gotinha/)
     - [Documento sobre Personas atualizado](./Estrutura%20do%20Projeto/Personas.md)
     - [Documento de Arquitetura atualizado](./Estrutura%20do%20Projeto/Arquitetura.md)
     - [Documentação dos Protótipos de Extrator](./Documentação%20dos%20Protótipos/orçamentário.md)

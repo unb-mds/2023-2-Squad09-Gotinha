@@ -1,12 +1,12 @@
 # Termo de Abertura do Projeto
 
-## Descrição Geral
+## 1. Descrição Geral
 
 - Um termo de abertura de projeto é um documento essencial que marca o início formal de um projeto. Ele descreve os principais aspectos do projeto de forma sucinta e estabelece a autoridade e responsabilidade do gerente de projeto.
 
 - O termo de abertura do projeto é um documento importante, pois estabelece a base para o projeto, alinha as expectativas das partes interessadas e fornece orientação clara para a equipe de projeto. Ele serve como referência ao longo do ciclo de vida do projeto para garantir que todos os envolvidos estejam alinhados com os objetivos e requisitos do projeto.
 
-## Estrutura básica do Termo de Abertura do Projeto
+## 2. Estrutura básica do Termo de Abertura do Projeto
 
 **1. Título do Projeto:** O nome oficial ou título do projeto, que deve ser claro e conciso.
 
@@ -31,7 +31,7 @@
 **11. Aprovação:** Um espaço para a assinatura das partes autorizadas que aprovam o termo de abertura do projeto, o que formaliza o início do projeto.
 
 
-## Informações adicionais
+## 3. Informações adicionais
 
 ### Como trabalhar com as partes interressadas
 
@@ -75,7 +75,7 @@
 
 A chave é manter uma comunicação aberta, ser sensível às necessidades das partes interessadas e trabalhar para criar parcerias colaborativas que promovam o sucesso do projeto.
 
-## Links úteis
+## 4. Links úteis
 
 - [Tutorial de TAP](https://www.youtube.com/watch?v=5qAVlFQq0OA)
 
@@ -83,7 +83,7 @@ A chave é manter uma comunicação aberta, ser sensível às necessidades das p
 
 - [Termo de Abertura do Projeto: o que é e como funciona](https://www.objective.com.br/insights/termo-de-abertura-do-projeto-o-que-e-como-funciona-e-como-podemos-utiliza-lo-na-agilidade/)
 
-## Histórico de versão
+## 5. Histórico de versão
 
 | Versão | Alteração | Responsável | Revisor | Data |
 | - | - | - | - | - |

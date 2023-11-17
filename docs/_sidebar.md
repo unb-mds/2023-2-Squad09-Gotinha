@@ -94,4 +94,4 @@
   - **Sprint 8 (08/11 - 15/11)**
     - [Ata da Reunião do dia 08/11](./AtaReuniao/ataReuniao08-11.md)
     - [Link para telas completas](https://unb-mds.github.io/2023.2_Gotinha/)
-    - [Estudo sobre o Spacy](./Estudos/Spacy.md)
+    - [Estudo sobre o spaCy](./Estudos/spaCy.md)

@@ -12,8 +12,9 @@ A biblioteca pode ser instalada através do comando
 
 ```
 pip install spacy
-```
+python -m spacy download pt_core_news_sm
 
+```
 ## 3. Funcionamento da biblioteca
 
 A utilização da biblioteca spaCy para desenvolver resumos pode ser feita seguindo estes passos:

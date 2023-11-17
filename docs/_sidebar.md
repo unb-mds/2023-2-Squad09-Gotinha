@@ -83,8 +83,15 @@
     - [Documento sobre Scrum adaptado](./Estrutura%20do%20Projeto/Processo%20de%20Desenvolvimento.md)
     - [Release 1](./Releases/Release1.md)
 
-  - **Sprint 7 (25/10 - 01/11)**
+  - **Sprint 7 (25/10 - 08/11)**
     - [Ata da Reunião do dia 28/10](./AtaReuniao/ataReuniao28-10.md)
     - [Unindo Spider com PDF para JSON](./Documentação%20dos%20Protótipos/run.md)
     - [Extrator V2](https://github.com/unb-mds/2023-2-Squad09-Gotinha/tree/main/Prot%C3%B3tipos/Extrator_V2)
+    - [Link do Segundo Repositório](https://github.com/unb-mds/2023.2_Gotinha)
     - [Estudo sobre o SpacePy](./Estudos/Spacepy.md)
+    - [Estudo sobre o React](./Estudos/React.md)
+  
+  - **Sprint 8 (08/11 - 15/11)**
+    - [Ata da Reunião do dia 08/11](./AtaReuniao/ataReuniao08-11.md)
+    - [Link para telas completas](https://unb-mds.github.io/2023.2_Gotinha/)
+    - [Estudo sobre o Spacy](./Estudos/Spacy.md)

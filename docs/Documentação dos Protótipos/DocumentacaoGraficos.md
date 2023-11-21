@@ -390,3 +390,8 @@ Infelizmente, o github pages, que é onde o projeto está hospedado, não permit
 - [Página do projeto](https://unb-mds.github.io/2023.2_Gotinha)
 - [Repositório do projeto](https://github.com/unb-mds/2023.2_Gotinha)
 
+## Histórico de Versão
+
+| Versão | Alteração | Responsável | Revisor | Data |
+| - | - | - | - | - |
+| 1.0 | Criando documentação sobre os gráficos da Dashboard | Paulo Henrique | - | 19/11 |

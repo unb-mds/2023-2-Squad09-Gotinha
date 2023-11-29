@@ -2,6 +2,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/unb-mds/2023-2-Squad09-Gotinha?style=for-the-badge)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/unb-mds/2023-2-Squad09-Gotinha?style=for-the-badge)
 ![GitHub views](https://komarev.com/ghpvc/?username=unb-mds&repo=2023-2-Squad09-Gotinha&color=blueviolet&style=for-the-badge&label=Views)
+[![codecov](https://codecov.io/gh/unb-mds/2023.2_Gotinha/branch/main/graph/badge.svg?token=ZQZQZQZQZQ)](https://codecov.io/gh/unb-mds/2023.2_Gotinha)
 
 # Descrição do Projeto
 

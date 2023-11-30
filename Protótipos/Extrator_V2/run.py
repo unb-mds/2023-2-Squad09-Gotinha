@@ -29,7 +29,7 @@ url_Json(json_file_path)
 print("Execução da função url_Json foi bem-sucedida!")
 
 # Pasta contendo os arquivos JSON
-pasta_diarios = os.path.join(script_dir, 'Diários em json')
+pasta_diarios = os.path.join(script_dir, 'Diários em json/diarios_2023')
 
 # Lista para armazenar os trechos filtrados
 trechos_filtrados = []

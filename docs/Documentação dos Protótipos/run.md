@@ -19,8 +19,11 @@
 
 # goiania_spider.py
 
+- 
 - Pega as url, data, edição e se tem suplemento ou não. E armazena esses dados em um json.
 - Precisa ser executado separadamente e antes da run.
+- Lembre-se de navegar pelo terminal até o diretório onde está localizado o arquivo goiania_spider.py
+- Execute "scrapy runspider goiania_spider.py -o edicoes_recentes_ano.json" sendo o ano que vai ser extraido.
 
 ```
  # Domínio base

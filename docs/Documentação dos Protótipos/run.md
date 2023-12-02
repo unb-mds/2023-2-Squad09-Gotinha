@@ -14,6 +14,9 @@
 ```
 ./setup.sh
 ```
+```
+chmod +x setup.sh 
+```
 
 - Siga as instruções que aparecerão.
 

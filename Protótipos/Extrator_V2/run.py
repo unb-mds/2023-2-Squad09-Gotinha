@@ -6,23 +6,23 @@ from filtro import extrair_trechos
 
 # Executa o spider e obtém os diários em .json
 # Lembre-se de navegar pelo terminal até o diretório onde está localizado o arquivo goiania_spider.py
-comando = "scrapy runspider /Users/2023-2-Squad09-Gotinha/Protótipos/Extrator_V2/goiania_spider.py -o edicoes_recentes.json"
+comando = "scrapy runspider /2023-2-Squad09-Gotinha/Protótipos/Extrator_V2/goiania_spider.py -o edicoes_2023.json"
 resultado = subprocess.run(comando, shell=True, stdout=subprocess.PIPE)
 
 # Obtém o caminho do diretório atual
 script_dir = os.path.dirname(os.path.realpath(__file__))
 
 # Define o caminho completo para o arquivo JSON
-output_file_path = os.path.join(script_dir, "edicoes_recentes.json")
+output_file_path = os.path.join(script_dir, "Edições por Ano/edicoes_2023.json")
 
 # Renomeia o arquivo JSON gerado pelo scrapy para o caminho desejado
-os.rename("edicoes_recentes.json", output_file_path)
+os.rename("Edições por Ano/edicoes_2023.json", output_file_path)
 
 # Verifica se a lista de dados foi carregada corretamente
-print("Execução bem-sucedida! O arquivo 'edicoes_recentes.json' foi gerado.")
+print("Execução bem-sucedida! O arquivo 'edicoes_2023.json' foi gerado.")
 
 # Caminho completo para o arquivo JSON gerado pelo scrapy
-json_file_path = os.path.join(script_dir, "edicoes_recentes.json")
+json_file_path = os.path.join(script_dir, "Edições por Ano/edicoes_2023.json")
 
 # Chama a função url_Json com os dados lidos do arquivo JSON
 url_Json(json_file_path)
@@ -55,9 +55,9 @@ json_str = json_str.replace('[', '[\n ')
 json_str = json_str.replace(']', '\n]')
 
 # Salva os trechos filtrados em um novo arquivo JSON no mesmo diretório do script
-filtered_file_path = os.path.join(script_dir, 'trechos_filtrados.json')
+filtered_file_path = os.path.join(script_dir, 'Diários em json/diarios_2023/trechos_filtrados_2023.json')
 
 # Salva os trechos filtrados em um novo arquivo JSON
 with open(filtered_file_path, 'w', encoding='utf-8') as output_file:
     output_file.write(json_str)
-print("Execução do filtro bem-sucedida! O arquivo 'trechos_filtrados.json' foi gerado")
+print("Execução do filtro bem-sucedida! O arquivo 'trechos_filtrados_2023.json' foi gerado")

@@ -59,7 +59,7 @@ class GoianiaSpider(scrapy.Spider):
                 'Edicao': num,
                 'Data': date,
                 'URL': full_url,
-                'Suplemento': sup
+                'Suplemento ou Ed Extra': sup
             })
     
         return data_list

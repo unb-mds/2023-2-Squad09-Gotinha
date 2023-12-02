@@ -8,7 +8,7 @@ import os
 script_dir = os.path.dirname(os.path.realpath(__file__))
 
 # Define o nome do subdiretório para armazenar os arquivos
-output_subdirectory = 'Diários em json'
+output_subdirectory = 'Diários em json/diarios_2022'
 
 # Combina o diretório atual com o subdiretório de saída
 output_directory = os.path.join(script_dir, output_subdirectory)
@@ -32,6 +32,7 @@ def url_Json(arquivo):
             url = item['URL']
             ed = item['Edicao']
             data = item['Data']
+            sup = item['Suplemento ou Ed Extra']
 
             # Chamando funções para extrair o pdf
             remote_file = urlopen(Request(url)).read()
@@ -39,8 +40,13 @@ def url_Json(arquivo):
             pdf = PdfFileReader(memory_file, strict=False)
 
             # Editar o nome do arquivo e salvar dentro do diretorio "Diários em json"
-            file_name = f"{ed}_{data}.json"                    
-            file_path = os.path.join(output_directory, file_name)
+            if sup == "true":
+                file_name = f"{ed}_{data} - suplemento.json"                    
+                file_path = os.path.join(output_directory, file_name)
+            
+            else:
+                file_name = f"{ed}_{data}.json"                    
+                file_path = os.path.join(output_directory, file_name)
 
             # Gerando um json para cada pdf aberto pela url
             with open(file_path, 'w', encoding="utf-8") as f:

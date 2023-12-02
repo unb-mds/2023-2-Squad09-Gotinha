@@ -17,12 +17,9 @@ class GoianiaSpider(scrapy.Spider):
     # URL de início da raspagem
     start_url = ['https://www.goiania.go.gov.br/casa-civil/diario-oficial/']
 
-    # Data de início
-    start_date = datetime.date(2023, 1, 1)
-
     # Método para iniciar as requisições
     def start_requests(self):
-        year = 2023
+        year = 2022
         # Cria uma requisição para o URL com base no ano
         yield scrapy.Request(
             f"http://www.goiania.go.gov.br/shtml//portal/casacivil/lista_diarios.asp?ano={year}"
@@ -35,7 +32,7 @@ class GoianiaSpider(scrapy.Spider):
 
         # [:numero_edicoes] ---> Aqui, deve ser inserido o número de edições que deseja extrair
         # Extraindo a partir da mais recente
-        for edition in editions[:0]:
+        for edition in editions:
             e_info = edition.xpath('./text()').get()
             
             # Obtém a edição

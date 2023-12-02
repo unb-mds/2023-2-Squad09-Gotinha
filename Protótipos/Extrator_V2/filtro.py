@@ -1,8 +1,5 @@
 import re
 
-# Pasta contendo os arquivos JSON
-pasta_diarios = 'Diários em json/diarios_2023'
-
 # Função para extrair trechos de cada arquivo JSON
 def extrair_trechos(arquivo_path):
     
@@ -10,7 +7,7 @@ def extrair_trechos(arquivo_path):
     trechos_filtrados = []
 
     # Expressão regular para encontrar o padrão "DECRETO ORÇAMENTÁRIO Nº" até "no valor R$"
-    padrao = re.compile(r'(DECRETO ORÇAMENTÁRIO Nº\s*(\d+)\s*.*?R\$\s[^\n]*)', re.DOTALL)
+    padrao = re.compile(r'(DE\s*CRETO\s+ORÇAMENTÁRIO\s+Nº\s*(\d+)\s*.*?R\$\s[^\n]*)', re.DOTALL)
     
     with open(arquivo_path, 'r', encoding='utf-8') as arquivo:
         texto = arquivo.read()
@@ -57,7 +54,7 @@ def extrair_trechos(arquivo_path):
                         valor_match = re.search(r'R\$\s*([\d,.]+).', trecho)
                         valor_str = valor_match.group(1).replace('.', '').replace(',', '.')
                         valor = float(valor_str) if valor_match else 0.0
-
+                        
                         trechos_filtrados.append({
                             #'Decreto Nº': n_decreto,
                             #'Data': date,
@@ -66,5 +63,5 @@ def extrair_trechos(arquivo_path):
                             'Ano': ano,
                             'Valor em R$': valor
                         })
-            
+        
     return trechos_filtrados

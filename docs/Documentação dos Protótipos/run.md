@@ -12,10 +12,10 @@
 - navegue pelo terminal até o diretório e execute
 
 ```
-./setup.sh
-```
-```
 chmod +x setup.sh 
+```
+```
+./setup.sh
 ```
 
 - Siga as instruções que aparecerão.

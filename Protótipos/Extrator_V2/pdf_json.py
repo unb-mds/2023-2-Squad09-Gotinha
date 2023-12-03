@@ -3,12 +3,19 @@ from PyPDF2 import PdfFileReader
 import io
 import json
 import os
+from goiania_spider import GoianiaSpider
+
+# Criando uma instância do spider
+spider_instance = GoianiaSpider()
+
+# Acessando a variável 'year' do spider
+year = spider_instance.start_requests().__next__().url.split('=')[-1]
 
 # Obtém o diretório atual do script
 script_dir = os.path.dirname(os.path.realpath(__file__))
 
 # Define o nome do subdiretório para armazenar os arquivos
-output_subdirectory = 'Diários em json/diarios_2022'
+output_subdirectory = f"Diários em json/diarios_{year}"
 
 # Combina o diretório atual com o subdiretório de saída
 output_directory = os.path.join(script_dir, output_subdirectory)
@@ -27,7 +34,7 @@ def url_Json(arquivo):
         # [:numero_edicoes] ---> Aqui, deve ser inserido o número de edições que serão convertidas para json
         # Ao executar pela primeira vez, o número deve ser o mesmo presente em goiania_spider.py
         # Caso os diários já estejam em json, escreva 0 para não executar a função novamente
-        for item in urls_json[:0]:
+        for item in urls_json:
             # Abre uma url por vez
             url = item['URL']
             ed = item['Edicao']

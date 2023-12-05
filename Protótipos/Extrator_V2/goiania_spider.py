@@ -19,7 +19,7 @@ class GoianiaSpider(scrapy.Spider):
 
     # Método para iniciar as requisições
     def start_requests(self):
-        year = 2020
+        year = 2019
         # Cria uma requisição para o URL com base no ano
         yield scrapy.Request(
             f"http://www.goiania.go.gov.br/shtml//portal/casacivil/lista_diarios.asp?ano={year}"

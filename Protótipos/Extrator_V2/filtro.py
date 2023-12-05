@@ -52,9 +52,9 @@ def extrair_trechos(arquivo_path):
                         ano = correspondencia.group(3)
                 
                         valor_match = re.search(r'R\$\s*([\d,.]+).', trecho)
-                        valor_str = valor_match.group(1).replace('.', '').replace(',', '.')
-                        valor = float(valor_str) if valor_match else 0.0
-                        
+                        valor_str = valor_match.group(1).replace('.', '').replace(',', '.') if valor_match else None
+                        valor = float(valor_str) if valor_str else 0.0
+
                         trechos_filtrados.append({
                             #'Decreto Nº': n_decreto,
                             #'Data': date,
@@ -63,5 +63,5 @@ def extrair_trechos(arquivo_path):
                             'Ano': ano,
                             'Valor em R$': valor
                         })
-        
+    
     return trechos_filtrados

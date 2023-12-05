@@ -1,0 +1,157 @@
+{
+  "id": "goiania",
+  "nome": "GOIANIA",
+  "detalhe": {
+    "2020": {
+      "2020": {
+        "9": {
+          "valores_gastos": 7520962.84
+        },
+        "8": {
+          "valores_gastos": 6893741.1
+        },
+        "7": {
+          "valores_gastos": 14340459.7
+        },
+        "5": {
+          "valores_gastos": 39537181.04
+        },
+        "11": {
+          "valores_gastos": 14896408.169999998
+        },
+        "2": {
+          "valores_gastos": 30594000.0
+        },
+        "10": {
+          "valores_gastos": 27050872.0
+        },
+        "12": {
+          "valores_gastos": 58871040.2
+        },
+        "4": {
+          "valores_gastos": 28000.0
+        },
+        "6": {
+          "valores_gastos": 862258.9
+        },
+        "1": {
+          "valores_gastos": 15387471.32
+        },
+        "3": {
+          "valores_gastos": 70467546.95
+        }
+      }
+    },
+    "2021": {
+      "2021": {
+        "2": {
+          "valores_gastos": 7775858.21
+        },
+        "3": {
+          "valores_gastos": 9250000.0
+        },
+        "7": {
+          "valores_gastos": 57944179.61
+        },
+        "12": {
+          "valores_gastos": 148495749.85
+        },
+        "5": {
+          "valores_gastos": 34185287.2
+        },
+        "8": {
+          "valores_gastos": 33457708.0
+        },
+        "10": {
+          "valores_gastos": 33284990.47
+        },
+        "6": {
+          "valores_gastos": 24560082.5
+        },
+        "11": {
+          "valores_gastos": 41352000.0
+        },
+        "1": {
+          "valores_gastos": 42508200.59
+        },
+        "9": {
+          "valores_gastos": 4657001.75
+        }
+      }
+    },
+    "2022": {
+      "2022": {
+        "2": {
+          "valores_gastos": 38332672.0
+        },
+        "3": {
+          "valores_gastos": 95608688.07
+        },
+        "4": {
+          "valores_gastos": 75947044.79
+        },
+        "5": {
+          "valores_gastos": 100000.0
+        },
+        "6": {
+          "valores_gastos": 125557797.37
+        },
+        "7": {
+          "valores_gastos": 79519416.0
+        },
+        "8": {
+          "valores_gastos": 10820000.0
+        },
+        "9": {
+          "valores_gastos": 128168094.44
+        },
+        "10": {
+          "valores_gastos": 71685211.21000001
+        },
+        "11": {
+          "valores_gastos": 52713971.0
+        },
+        "12": {
+          "valores_gastos": 84537090.86
+        }
+      }
+    },
+    "2023": {
+      "2023": {
+        "1": {
+          "valores_gastos": 59000000.0
+        },
+        "2": {
+          "valores_gastos": 8504000.0
+        },
+        "3": {
+          "valores_gastos": 61930500.39
+        },
+        "4": {
+          "valores_gastos": 16959121.15
+        },
+        "5": {
+          "valores_gastos": 9688640.0
+        },
+        "6": {
+          "valores_gastos": 22591192.2
+        },
+        "7": {
+          "valores_gastos": 70787394.63
+        },
+        "8": {
+          "valores_gastos": 128224323.66999999
+        },
+        "9": {
+          "valores_gastos": 21068180.9
+        },
+        "10": {
+          "valores_gastos": 23002000.0
+        },
+        "11": {
+          "valores_gastos": 90021329.4
+        }
+      }
+    }
+  }
+}

@@ -18,6 +18,10 @@ def converter_para_formato_desejado(dados):
 
     return resultado
 
+# Ler os dados de 2019 de um arquivo JSON
+with open("trechos_filtrados_2019.json", "r") as arquivo_2019:
+    dados_2019 = json.load(arquivo_2019)
+
 # Ler os dados de 2020 de um arquivo JSON
 with open("trechos_filtrados_2020.json", "r") as arquivo_2020:
     dados_2020 = json.load(arquivo_2020)
@@ -35,6 +39,7 @@ with open("trechos_filtrados_2023.json", "r") as arquivo_2023:
     dados_2023 = json.load(arquivo_2023)
 
 # Converter os dados para o formato desejado
+dados_formato_desejado_2019 = converter_para_formato_desejado(dados_2019)
 dados_formato_desejado_2020 = converter_para_formato_desejado(dados_2020)
 dados_formato_desejado_2021 = converter_para_formato_desejado(dados_2021)
 dados_formato_desejado_2022 = converter_para_formato_desejado(dados_2022)
@@ -42,6 +47,7 @@ dados_formato_desejado_2023 = converter_para_formato_desejado(dados_2023)
 
 # Juntar os dados em um único formato
 dados_combinados = {"id": "goiania", "nome": "GOIANIA", "detalhe": {}}
+dados_combinados["detalhe"]["2019"] = dados_formato_desejado_2019
 dados_combinados["detalhe"]["2020"] = dados_formato_desejado_2020
 dados_combinados["detalhe"]["2021"] = dados_formato_desejado_2021
 dados_combinados["detalhe"]["2022"] = dados_formato_desejado_2022
@@ -50,5 +56,3 @@ dados_combinados["detalhe"]["2023"] = dados_formato_desejado_2023
 # Salvar os dados em um arquivo JSON
 with open("goiania.json", "w") as arquivo_saida:
     json.dump(dados_combinados, arquivo_saida, indent=2)
-
-print("Os dados foram salvos no arquivo dados_combinados.json")

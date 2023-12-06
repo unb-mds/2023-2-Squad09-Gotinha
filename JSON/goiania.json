@@ -2,6 +2,46 @@
   "id": "goiania",
   "nome": "GOIANIA",
   "detalhe": {
+    "2019": {
+      "2019": {
+        "1": {
+          "valores_gastos": 2118000.0
+        },
+        "2": {
+          "valores_gastos": 12902000.0
+        },
+        "3": {
+          "valores_gastos": 6914000.0
+        },
+        "4": {
+          "valores_gastos": 554371.44
+        },
+        "5": {
+          "valores_gastos": 9000000.0
+        },
+        "6": {
+          "valores_gastos": 13500000.0
+        },
+        "7": {
+          "valores_gastos": 3850000.0
+        },
+        "8": {
+          "valores_gastos": 133048205.56
+        },
+        "9": {
+          "valores_gastos": 1500000.0
+        },
+        "10": {
+          "valores_gastos": 24240000.0
+        },
+        "11": {
+          "valores_gastos": 3120000.0
+        },
+        "12": {
+          "valores_gastos": 19140000.0
+        }
+      }
+    },
     "2020": {
       "2020": {
         "9": {

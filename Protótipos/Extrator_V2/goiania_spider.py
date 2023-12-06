@@ -35,7 +35,7 @@ class GoianiaSpider(scrapy.Spider):
 
         # [:numero_edicoes] ---> Aqui, deve ser inserido o número de edições que deseja extrair
         # Extraindo a partir da mais recente
-        for edition in editions[:0]:
+        for edition in editions[:13]:
             e_info = edition.xpath('./text()').get()
             
             # Obtém a edição

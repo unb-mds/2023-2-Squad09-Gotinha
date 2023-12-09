@@ -1,1 +1,0 @@
-este markdown serve para criação da pasta

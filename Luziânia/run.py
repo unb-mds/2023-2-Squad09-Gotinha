@@ -27,14 +27,14 @@ os.rename(f"Decretos por Ano/decretos_{year}.json", output_file_path)
 print(f"Execução bem-sucedida! O arquivo 'decretos_{year}.json' foi gerado.")
 
 # Caminho completo para o arquivo JSON gerado pelo scrapy
-json_file_path = os.path.join(script_dir, f"Decretos por Ano/edicoes_{year}.json")
+json_file_path = os.path.join(script_dir, f"Decretos por Ano/decretos_{year}.json")
 
 # Chama a função url_Json com os dados lidos do arquivo JSON
 url_Json(json_file_path)
 print("Execução da função url_Json foi bem-sucedida!")
 
 # Pasta contendo os arquivos JSON
-pasta_diarios = os.path.join(script_dir, f"Decretos em json/diarios_{year}")
+pasta_diarios = os.path.join(script_dir, f"Decretos em json/Decretos_{year}")
 
 # Lista para armazenar os trechos filtrados
 trechos_filtrados = []
@@ -61,7 +61,7 @@ json_str = json_str.replace('[', '[\n ')
 json_str = json_str.replace(']', '\n]')
 '''
 
-# Cria o caminho completo para a pasta "filtrados"
+# Cria o caminho completo para a pasta "Trechos Filtrados"
 filtered_directory = os.path.join(script_dir, "Trechos Filtrados")
 
 # Verifica se o diretório "filtrados" existe, se não, cria

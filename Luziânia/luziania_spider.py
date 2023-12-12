@@ -3,6 +3,7 @@ import datetime
 from urllib.parse import urljoin
 import re
 
+# Obs: Decreto 422 sem data, inserir manualmente
 
 class LuzianiaSpider(scrapy.Spider):
     # Identificador do território
@@ -19,11 +20,11 @@ class LuzianiaSpider(scrapy.Spider):
 
     # Método para iniciar as requisições
     def start_requests(self):
-        year = 2023
+        year = 2022
         page_num = 1
-        max_pages = 10
+        max_page = 73    
         
-        while page_num <= max_pages:
+        while page_num <= max_page:
             url = f"https://www.luziania.go.gov.br/decretos-orcamentarios-2021/jsf/jet-engine/pagenum/{page_num}/search/{year}/"
             yield scrapy.Request(url, callback=self.parse)
             
@@ -39,18 +40,16 @@ class LuzianiaSpider(scrapy.Spider):
         for decreto in decretos:
             dados = decreto.xpath('.//section[1]/div/div/div/div/div/h2/a/text()').get()
             
-            # Obtém a edição
-            num_match = re.search(r'\u00c1RIO N\u00ba (\d+)', dados)
-            num = num_match.group(1) if num_match else None
-        
-            # Obtém a data
-            data_match = re.search(r'de (\d+ [^\d]+ \d+)', dados, re.IGNORECASE)
-            data = data_match.group(1) if data_match else None
+            # Obtém a edição e a data
+            data_match = re.search(r'(?:N\u00ba\s)?(\d+)\s*[-–]?(?:\s*de)?\s*(\d+\s*[^\d]+\s*\d+)', dados, re.IGNORECASE)
+            num = data_match.group(1) if data_match.group(1) else None
+            data = data_match.group(2).upper() if data_match.group(2) else None
             
             # Obtém a URL
             link = decreto.xpath('.//section[3]/div/div/div/div/div/div/div/div/div/a[1]/@href').get()
                 
             data_list.append({
+                #'Dados': dados,
                 'Decreto': num,
                 'Data': data,
                 'URL': link

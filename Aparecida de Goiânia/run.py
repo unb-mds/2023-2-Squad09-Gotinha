@@ -6,25 +6,25 @@ from filtro import extrair_trechos
 
 # Executa o spider e obtém os diários em .json
 # Lembre-se de navegar pelo terminal até o diretório onde está localizado o arquivo go_aparecida_de_goiania.py
-# comando para rodar 'scrapy runspider go_aparecida_de_goiania.py -o aparecida2.json'
+# comando para rodar 'scrapy runspider go_aparecida_de_goiania.py -o aparecida.json'
 
 # Obtém o caminho do diretório atual
 script_dir = os.path.dirname(os.path.realpath(__file__))
 
 # Define o caminho completo para o arquivo JSON
-output_file_path = os.path.join(script_dir, "aparecida2.json")
+output_file_path = os.path.join(script_dir, "aparecida.json")
 
 # Renomeia o arquivo JSON gerado pelo scrapy para o caminho desejado
-os.rename("aparecida2.json", output_file_path)
+os.rename("aparecida.json", output_file_path)
 
 # Verifica se a lista de dados foi carregada corretamente
-print("Execução bem-sucedida! O arquivo 'aparecida2.json' foi gerado.")
+print("Execução bem-sucedida! O arquivo 'aparecida.json' foi gerado.")
 
 # Caminho completo para o arquivo JSON gerado pelo scrapy
-#json_file_path = os.path.join(script_dir, "aparecida3.json")
+json_file_path = os.path.join(script_dir, "aparecida.json")
 
 # Chama a função url_Json com os dados lidos do arquivo JSON
-#url_Json(json_file_path)
+url_Json(json_file_path)
 print("Execução da função url_Json foi bem-sucedida!")
 
 # Pasta contendo os arquivos JSON

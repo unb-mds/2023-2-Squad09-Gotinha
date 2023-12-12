@@ -2,7 +2,6 @@
 ![GitHub issues](https://img.shields.io/github/issues/unb-mds/2023-2-Squad09-Gotinha?style=for-the-badge)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/unb-mds/2023-2-Squad09-Gotinha?style=for-the-badge)
 ![GitHub views](https://komarev.com/ghpvc/?username=unb-mds&repo=2023-2-Squad09-Gotinha&color=blueviolet&style=for-the-badge&label=Views)
-[![codecov](https://codecov.io/gh/unb-mds/2023.2_Gotinha/branch/main/graph/badge.svg?token=ZQZQZQZQZQ)](https://codecov.io/gh/unb-mds/2023.2_Gotinha)
 
 # Descrição do Projeto
 
@@ -63,6 +62,21 @@ O projeto possui as seguintes funcionalidades:
 - Análise Estatística: O projeto realiza uma análise estatística dos dados extraídos, gerando um gráfico dos municípios que mais investiram na saúde.
 
 - Interface de Usuário: O sistema possui uma inteface amigável, que permite que os usuários tenham acesso as informações de maneira intuitiva.
+
+## Testes
+
+Os testes do projeto podem ser visualizados no seguinte [link](./docs/Testes/pytest.md)
+
+Abra um terminal na raiz do seu projeto.
+
+Execute os comandos :
+```
+cd Protótipos
+cd Extrator_V2
+coverage report -m --include="tests/*"
+```
+
+O pytest encontrará automaticamente todos os arquivos de teste e executará as funções de teste.
 
 ## Equipe de Desenvolvimento
 

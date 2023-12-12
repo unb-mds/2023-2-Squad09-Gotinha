@@ -50,11 +50,18 @@ def test_subtracao():
     assert 3 - 1 == 2
 
 ## Executando Testes
+
 Abra um terminal na raiz do seu projeto.
 
-Execute o comando `pytest`.
+Execute os comandos :
+```
+cd Protótipos
+cd Extrator_V2
+coverage report -m --include="tests/*"
+```
 
 O pytest encontrará automaticamente todos os arquivos de teste e executará as funções de teste.
+
 
 ## Assertions e Resultados
 Se todas as afirmações `assert` passarem sem erros, os testes serão considerados bem-sucedidos.
@@ -94,17 +101,15 @@ Foram os seguintes tipos de testes:
 
 Após realizar os testes, obtivemos os seguintes resultados com o pytest e o covareg.py no nosso index:
 
-Coverage report: 70%
+Coverage report: 90%
 
-Module             | Statements | Missing | Excluded | Coverage
--------------------|------------|---------|----------|---------
-filtro.py          | 13         | 3       | 0        | 77%
-goiania_spider.py  | 29         | 12      | 0        | 59%
-pdf_json.py        | 32         | 22      | 0        | 31%
-tests\test_filtro.py       | 25         | 5       | 0        | 80%
-tests\test_goiania_spider.py| 24         | 1       | 0        | 96%
-tests\test_pdf_json.py      | 18         | 6       | 0        | 67%
-tests\test_run.py           | 28         | 1       | 0        | 96%
-**Total**          | **169**    | **50**  | **0**    | **70%**
+| File                        | Stmts | Miss | Cover | Missing       |
+|-----------------------------|-------|------|-------|---------------|
+| tests/test_filtro.py        | 25    | 5    | 80%   | 12-18, 39, 43 |
+| tests/test_goiania_spider.py | 24    | 1    | 96%   | 59            |
+| tests/test_pdf_json.py       | 7     | 1    | 86%   | 9             |
+| tests/test_run.py            | 28    | 1    | 96%   | 52            |
+| **TOTAL**                   | **84**| **8**| **90%**| -  |
+
 
 Um boa cobertura julgando o tamanho do projeto. Pytest e covarege.py são bibliotecas simples e viáveis de serem utilizadas no projeto.

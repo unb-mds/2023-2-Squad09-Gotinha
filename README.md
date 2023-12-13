@@ -3,6 +3,8 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/unb-mds/2023-2-Squad09-Gotinha?style=for-the-badge)
 ![GitHub views](https://komarev.com/ghpvc/?username=unb-mds&repo=2023-2-Squad09-Gotinha&color=blueviolet&style=for-the-badge&label=Views)
 
+### [Link](https://github.com/unb-mds/2023.2_Gotinha) para segundo repositório
+
 # Descrição do Projeto
 
 O projeto Gotinha faz parte da disciplina de Métodos de Desenvolvimento de Software (MDS). Seu objetivo é analisar os dados relacionados à saúde presentes nos diários oficiais dos municípios do Estado de Goiás e disponibilizá-los em uma página web.

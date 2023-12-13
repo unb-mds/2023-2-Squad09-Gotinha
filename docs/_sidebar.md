@@ -21,6 +21,10 @@
 
   - **Releases**
     - [Release 1](./Releases/Release1.md)
+  
+  - **Testes**
+    - [Testes do Pytest](./Testes/pytest.md)
+    - [Testes de integração](./Testes/testes_integracao.md)
 
 - **Sprints**
 

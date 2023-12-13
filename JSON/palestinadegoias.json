@@ -1,0 +1,206 @@
+{
+  "id": "palestinadegoias",
+  "nome": "Palestina de Goías",
+  "detalhe": {
+    "2019": {
+      "2019": {
+        "1": {
+          "valores_gastos": 24171277.21
+        },
+        "2": {
+          "valores_gastos": 3779373.31
+        },
+        "3": {
+          "valores_gastos": 26968163.42
+        },
+        "4": {
+          "valores_gastos": 14463898.12
+        },
+        "5": {
+          "valores_gastos": 14883827.14
+        },
+        "6": {
+          "valores_gastos": 10235341.56
+        },
+        "7": {
+          "valores_gastos": 16533706.24
+        },
+        "8": {
+          "valores_gastos": 22103361.83
+        },
+        "9": {
+          "valores_gastos": 16079664.12
+        },
+        "10": {
+          "valores_gastos": 15629825.36
+        },
+        "11": {
+          "valores_gastos": 5130185.81
+        },
+        "12": {
+          "valores_gastos": 24488033.27
+        }
+      }
+    },
+    "2020": {
+      "2020": {
+        "1": {
+          "valores_gastos": 22513906.33
+        },
+        "2": {
+          "valores_gastos": 19090590.75
+        },
+        "3": {
+          "valores_gastos": 22708203.27
+        },
+        "4": {
+          "valores_gastos": 24657207.61
+        },
+        "5": {
+          "valores_gastos": 16502056.23
+        },
+        "6": {
+          "valores_gastos": 24224485.93
+        },
+        "7": {
+          "valores_gastos": 4904528.6
+        },
+        "8": {
+          "valores_gastos": 12484809.72
+        },
+        "9": {
+          "valores_gastos": 29004976.05
+        },
+        "10": {
+          "valores_gastos": 21105351.87
+        },
+        "11": {
+          "valores_gastos": 6400394.01
+        },
+        "12": {
+          "valores_gastos": 18564211.25
+        }
+      }
+    },
+    "2021": {
+      "2021": {
+        "1": {
+          "valores_gastos": 18922165.56
+        },
+        "2": {
+          "valores_gastos": 27296097.13
+        },
+        "3": {
+          "valores_gastos": 2930963.83
+        },
+        "4": {
+          "valores_gastos": 27312627.34
+        },
+        "5": {
+          "valores_gastos": 4697979.73
+        },
+        "6": {
+          "valores_gastos": 2967970.96
+        },
+        "7": {
+          "valores_gastos": 2835212.19
+        },
+        "8": {
+          "valores_gastos": 4667961.56
+        },
+        "9": {
+          "valores_gastos": 27592272.77
+        },
+        "10": {
+          "valores_gastos": 28143067.42
+        },
+        "11": {
+          "valores_gastos": 6548665.46
+        },
+        "12": {
+          "valores_gastos": 14033031.4
+        }
+      }
+    },
+    "2022": {
+      "2022": {
+        "1": {
+          "valores_gastos": 7535005.07
+        },
+        "2": {
+          "valores_gastos": 27259689.26
+        },
+        "3": {
+          "valores_gastos": 22620131.95
+        },
+        "4": {
+          "valores_gastos": 11281654.4
+        },
+        "5": {
+          "valores_gastos": 2313233.21
+        },
+        "6": {
+          "valores_gastos": 22284434.68
+        },
+        "7": {
+          "valores_gastos": 6665601.41
+        },
+        "8": {
+          "valores_gastos": 29637202.21
+        },
+        "9": {
+          "valores_gastos": 16579509.66
+        },
+        "10": {
+          "valores_gastos": 10198778.07
+        },
+        "11": {
+          "valores_gastos": 4298150.49
+        },
+        "12": {
+          "valores_gastos": 2090053.08
+        }
+      }
+    },
+    "2023": {
+      "2023": {
+        "1": {
+          "valores_gastos": 26354911.77
+        },
+        "2": {
+          "valores_gastos": 12167540.92
+        },
+        "3": {
+          "valores_gastos": 8297046.17
+        },
+        "4": {
+          "valores_gastos": 28244952.69
+        },
+        "5": {
+          "valores_gastos": 26772742.3
+        },
+        "6": {
+          "valores_gastos": 8159564.82
+        },
+        "7": {
+          "valores_gastos": 24561487.52
+        },
+        "8": {
+          "valores_gastos": 17839397.13
+        },
+        "9": {
+          "valores_gastos": 24539837.65
+        },
+        "10": {
+          "valores_gastos": 11777785.97
+        },
+        "11": {
+          "valores_gastos": 24529854.55
+        },
+        "12": {
+          "valores_gastos": 20412929.74
+        }
+      }
+    }
+  }
+}

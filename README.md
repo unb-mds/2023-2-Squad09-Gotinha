@@ -37,14 +37,12 @@ Que podem ser instalados através dos comandos:
 ```
 pip install python
 ```
+Ative o ambiente virtual:
 ```
-pip install camelot-py[base]
-```
-```
-pip install 'PyPDF2<3.0'
+chmod +x setup.sh 
 ```
 ```
-pip install scrapy
+./setup.sh
 ```
 
 O repositório pode ser clonado com o seguinte comando:

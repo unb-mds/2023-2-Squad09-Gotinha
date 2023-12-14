@@ -99,4 +99,17 @@
     - [Ata da Reunião do dia 08/11](./AtaReuniao/ataReuniao08-11.md)
     - [Link para telas completas](https://unb-mds.github.io/2023.2_Gotinha/)
     - [Estudo sobre o spaCy](./Estudos/spaCy.md)
+
+  - **Sprint 9 (15/11 - 22/11)**
+    - [Ata da Reunião do dia 13/11](./AtaReuniao/ataReuniao13-11.md)
     - [Implementação dos Gráficos](./Documentação%20dos%20Protótipos/DocumentacaoGraficos.md)
+    - [Spacy V2](https://github.com/unb-mds/2023-2-Squad09-Gotinha/blob/main/Prot%C3%B3tipos/Prot%C3%B3tipo_Spacy/spaCy.ipynb)
+    - [Dashboard do Gotinha](https://unb-mds.github.io/2023.2_Gotinha/)
+    - [Testes iniciais](./Testes/pytest.md)
+
+  - **Sprint 10 (22/11 - 06/12)**
+    - [Ata da Reunião do dia 22/11](./AtaReuniao/ataReuniao22-11.md)
+    - [Pasta contendo JSON](https://github.com/unb-mds/2023-2-Squad09-Gotinha/tree/main/JSON)
+
+  - **Sprint 11 (06/12 - 13/12)**
+    - [Ata da Reunião do dia 06/12](./AtaReuniao/ataReuniao06-12.md)

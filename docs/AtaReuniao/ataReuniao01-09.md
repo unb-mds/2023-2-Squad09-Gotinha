@@ -58,8 +58,3 @@ Dessa forma, estão descritas na Tabela 2 as issues para a Sprint 0, onde cada i
 | - | - | - | - | - |
 | 1.0 | Criando Ata da Reunião | Maria Eduarda Vieira | - | 01/09 |
 | 1.1 | Revisão da Ata | Maria Eduarda Vieira | João Artur Leles | 08/09 |
-
-
-
-
-
